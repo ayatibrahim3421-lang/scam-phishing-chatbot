@@ -7,8 +7,7 @@ import streamlit as st
 import requests
 
 
-API_URL = os.getenv("API_URL", "http://127.0.0.1:8000/chat")
-
+BASE_URL = "https://scam-phishing-chatbot.onrender.com"
 CONVERSATIONS_FILE = Path("conversations.json")
 
 DEV_MODE = False
@@ -21,6 +20,37 @@ st.set_page_config(
     page_icon="🛡️",
     layout="centered"
 )
+
+
+# =========================
+# Backend Endpoint Discovery
+# =========================
+
+@st.cache_data(ttl=300)
+def get_backend_endpoint():
+    preferred_paths = [
+        "/chat", "/chat/", "/analyze", "/analyze/",
+        "/api/chat", "/predict", "/scan"
+    ]
+
+    try:
+        r = requests.get(f"{BASE_URL}/openapi.json", timeout=30)
+        r.raise_for_status()
+        openapi = r.json()
+        paths = openapi.get("paths", {})
+
+        for path in preferred_paths:
+            if path in paths and "post" in paths[path]:
+                return f"{BASE_URL}{path}"
+
+        for path, methods in paths.items():
+            if "post" in methods:
+                return f"{BASE_URL}{path}"
+
+    except Exception as e:
+        raise RuntimeError(f"Cannot detect backend POST endpoint: {e}")
+
+    raise RuntimeError("No POST endpoint found in backend. Check /docs on Render.")
 
 
 # =========================
@@ -168,15 +198,17 @@ def post_to_backend(user_input, messages_without_current_user, multipart_files, 
         "ab_model": ab_model
     }
 
+    api_url = get_backend_endpoint()
+
     response = requests.post(
-        API_URL,
+        api_url,
         data=payload,
         files=multipart_files if multipart_files else None,
         timeout=timeout
     )
 
     if response.status_code != 200:
-        raise RuntimeError(f"Backend Error {response.status_code}: {response.text}")
+        raise RuntimeError(f"Backend Error {response.status_code}: {response.text}\n\nUsed endpoint: {api_url}")
 
     return response.json()
 
@@ -198,11 +230,14 @@ def run_backend_request(user_input, messages_without_current_user, multipart_fil
 if "conversations" not in st.session_state:
     old_conversations = load_conversations()
 
-    new_conv = create_new_conversation()
-    st.session_state.conversations = [new_conv] + old_conversations
-    st.session_state.current_conversation_id = new_conv["id"]
-
-    save_conversations(st.session_state.conversations)
+    if old_conversations:
+        st.session_state.conversations = old_conversations
+        st.session_state.current_conversation_id = old_conversations[0]["id"]
+    else:
+        new_conv = create_new_conversation()
+        st.session_state.conversations = [new_conv]
+        st.session_state.current_conversation_id = new_conv["id"]
+        save_conversations(st.session_state.conversations)
 
 if not st.session_state.conversations:
     new_conv = create_new_conversation()
