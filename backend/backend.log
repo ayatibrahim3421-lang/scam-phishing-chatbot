@@ -1,0 +1,12 @@
+2026-05-02 15:11:03,392 | INFO | event=prometheus_enabled | endpoint=/metrics
+2026-05-02 15:11:03,394 | INFO | event=sentry_not_enabled | reason=SENTRY_DSN_not_set
+2026-05-02 15:11:03,394 | INFO | event=monitoring_initialized
+2026-05-02 15:11:08,369 | INFO | event=embeddings_loaded | items_count=2000
+INFO:     Started server process [6808]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [6808]

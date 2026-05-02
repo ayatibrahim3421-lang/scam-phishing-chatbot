@@ -1,0 +1,1673 @@
+[
+  {
+    "id": "1a01d7b4-0bdd-45bb-af74-dadc39de3c00",
+    "title": "محادثة جديدة",
+    "messages": []
+  },
+  {
+    "id": "9ba33caa-19ff-458f-a3d8-23e5523beb1d",
+    "title": "محادثة جديدة",
+    "messages": []
+  },
+  {
+    "id": "b4d0d501-4953-4d86-91b9-0c17ede980fa",
+    "title": "محادثة جديدة",
+    "messages": []
+  },
+  {
+    "id": "7a84803f-5e59-4d2b-a0a9-c49713a979e7",
+    "title": "محادثة جديدة",
+    "messages": []
+  },
+  {
+    "id": "c77c1c5c-2612-44d3-ae66-b9efe4828019",
+    "title": "What is phishing?",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is phishing?",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## What Is Phishing?\n\nPhishing is a type of cyberattack where criminals try to trick people into revealing sensitive information, such as passwords, credit card numbers, bank details, or verification codes. Attackers often pretend to be trusted organizations, such as banks, delivery companies, social media platforms, employers, or government agencies. Phishing commonly happens through email, text messages, phone calls, fake websites, or social media messages. The goal is usually to steal money, take over accounts, install malware, or collect personal information for identity theft.\n\n### Examples\n- An email that appears to come from your bank says your account will be locked unless you click a link and enter your login details.\n- A text message claims you missed a package delivery and asks you to pay a small fee through a suspicious link.\n- A fake login page that looks like a real social media site asks for your username and password.\n\n### Practical Tips\n- Do not click suspicious links or open unexpected attachments, especially if the message creates urgency or fear.\n- Check the sender address, website URL, spelling, and design carefully before entering any personal information.\n- Use multi-factor authentication and report suspicious messages to your organization, email provider, or the real company being impersonated.\n\n### Summary\nPhishing is a scam where attackers impersonate trusted sources to steal sensitive information or compromise accounts.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 8.8,
+          "mode": "LLM_EDUCATIONAL",
+          "intent": "educational",
+          "admin_comparison_mode": true,
+          "phi_logged_in_dashboard": true
+        }
+      },
+      {
+        "role": "user",
+        "content": "How do hackers steal passwords?",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 90%\n\nMode: LLM_ANALYSIS\nLatency: 6.04s\n\nReason:\nThis is a general cybersecurity awareness question asking how attackers commonly obtain passwords. It does not contain a suspicious link, impersonation attempt, request for credentials, or a direct phishing message.\n\nRed Flags:\nNo clear red flags.\n\nAdvice:\nHackers commonly steal passwords through phishing pages, fake login prompts, malware such as keyloggers, data breaches, password reuse, weak passwords, social engineering, and insecure public Wi-Fi. To protect yourself, use unique strong passwords, enable multi-factor authentication, use a password manager, avoid clicking suspicious links, verify website URLs before logging in, and keep your devices updated.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 6.04,
+          "mode": "LLM_ANALYSIS",
+          "intent": "analysis",
+          "admin_comparison_mode": true,
+          "phi_logged_in_dashboard": true
+        }
+      },
+      {
+        "role": "user",
+        "content": "شو يعني OTP؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## ما معنى الرمز لمرة واحدة؟\n\nالرمز لمرة واحدة هو رقم أو رمز مؤقت يُستخدم للتحقق من هويتك عند تسجيل الدخول أو تنفيذ عملية حساسة، مثل تحويل أموال أو تغيير كلمة المرور. غالباً يصل هذا الرمز عبر رسالة نصية، أو تطبيق مصادقة، أو بريد إلكتروني، ويكون صالحاً لفترة قصيرة فقط. الهدف منه هو إضافة طبقة حماية إضافية، بحيث لا يكفي امتلاك كلمة المرور وحدها للدخول إلى الحساب. من المهم جداً عدم مشاركة هذا الرمز مع أي شخص، لأن المحتالين قد يحاولون خداعك للحصول عليه والسيطرة على حسابك.\n\n### أمثلة\n- عند تسجيل الدخول إلى حسابك البنكي، قد يصلك رمز مؤقت على هاتفك لإكمال عملية الدخول.\n- إذا حاولت تغيير كلمة مرور بريدك الإلكتروني، قد يطلب منك الموقع إدخال رمز تحقق مؤقت.\n- قد يتصل بك محتال ويدّعي أنه من الدعم الفني ويطلب منك الرمز المؤقت؛ هذا تصرف خطير ويجب رفضه.\n\n### نصائح عملية\n- لا تشارك الرمز المؤقت مع أي شخص، حتى لو ادّعى أنه موظف بنك أو دعم فني.\n- استخدم تطبيق مصادقة موثوقاً عندما يكون ذلك متاحاً، لأنه غالباً أكثر أماناً من الرسائل النصية.\n- إذا وصلك رمز تحقق دون أن تطلبه، غيّر كلمة مرور حسابك وتحقق من نشاط الحساب فوراً.\n\n### الخلاصة\nالرمز لمرة واحدة هو رمز مؤقت للتحقق من الهوية، ويجب عدم مشاركته مع أي شخص لأنه قد يُستخدم لاختراق الحساب.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 10.18,
+          "mode": "LLM_EDUCATIONAL",
+          "intent": "educational",
+          "admin_comparison_mode": true,
+          "phi_logged_in_dashboard": true
+        }
+      },
+      {
+        "role": "user",
+        "content": "تم إيقاف حسابك. اضغط الرابط لتأكيد البيانات فوراً\nمبروك! ربحت جائزة، اضغط هنا\nأدخل كلمة المرور لتأكيد حسابك الآن",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\nLatency: 7.58s\n\nالسبب:\nهذه الرسائل تحمل مؤشرات تصيّد واضحة لأنها تستخدم الاستعجال والخوف مثل إيقاف الحساب، وتطلب الضغط على رابط لتأكيد البيانات، كما تطلب إدخال كلمة المرور. كذلك تستخدم إغراء الجائزة لدفع المستخدم إلى الضغط على رابط، وهذه أساليب شائعة لسرقة بيانات الدخول أو المعلومات الشخصية.\n\nالعلامات الخطيرة:\n- استخدام عبارات عاجلة مثل: فوراً والآن للضغط على المستخدم.\n- الادعاء بأن الحساب تم إيقافه لدفعك إلى التصرف بسرعة دون تحقق.\n- طلب الضغط على رابط لتأكيد البيانات، وهو أسلوب شائع في التصيّد.\n- طلب إدخال كلمة المرور، وهذا خطر جداً ولا يجب فعله عبر روابط مرسلة.\n- وعد بجائزة مفاجئة دون سياق واضح، وهو أسلوب احتيالي شائع.\n\nالنصيحة:\nلا تضغط على أي رابط ولا تدخل كلمة المرور أو أي بيانات شخصية. ادخل إلى الحساب فقط من التطبيق الرسمي أو الموقع الرسمي بكتابة العنوان بنفسك. إذا كانت الرسالة تدّعي أنها من بنك أو خدمة معروفة، تواصل مع الجهة عبر قنواتها الرسمية. احذف الرسالة وبلّغ عنها كتصيّد إذا أمكن.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 7.58,
+          "mode": "RAG_ANALYSIS",
+          "intent": "analysis",
+          "admin_comparison_mode": true,
+          "phi_logged_in_dashboard": true
+        }
+      },
+      {
+        "role": "user",
+        "content": "Can you review this document?",
+        "files": []
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "QR_code_Wi-Fi_generic.svg.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: QR_code_Wi-Fi_generic.svg.png\nResult: Safe — 83%\n\nReason:\nThe image visibly shows a generic QR code with a Wi-Fi icon and label. There is no visible request for passwords, OTPs, payment details, login credentials, urgent action, or account verification. No phishing indicators are visible in the provided image.\n\nAdvice:\nOnly scan Wi-Fi QR codes from trusted sources and confirm the network name before joining. Avoid connecting to unknown public networks without protection such as a VPN.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 6.07,
+          "mode": "MULTI_FILE_IMAGE_ANALYSIS",
+          "intent": "file_or_image_analysis",
+          "admin_comparison_mode": true,
+          "phi_logged_in_dashboard": true
+        }
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "images.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: images.png\nResult: Suspicious — 65%\n\nReason:\nThe image only shows a standalone QR code with no visible explanation, sender, brand, or destination URL. A QR code can hide a link, so it cannot be verified from the visible content alone. There is no clear evidence of phishing such as a password request, payment request, urgency, or account suspension claim.\n\nAdvice:\nDo not scan the QR code unless you trust the source. If you need to check it, use a QR scanner that previews the URL first, and do not enter passwords, OTPs, banking details, or personal information on any page it opens.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 5.77,
+          "mode": "MULTI_FILE_IMAGE_ANALYSIS",
+          "intent": "file_or_image_analysis",
+          "admin_comparison_mode": true,
+          "phi_logged_in_dashboard": true
+        }
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "images.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: images.png\nResult: Suspicious — 55%\n\nReason:\nThe image contains only a QR code with no visible explanation, sender identity, destination URL, or context. A QR code can hide a link or action, so it cannot be verified from the visible content alone. There is no clear evidence of phishing, such as a password request, bank request, OTP request, or urgent account warning.\n\nAdvice:\nDo not scan the QR code unless you trust the source. If you need to check it, use a QR scanner that previews the full URL before opening it, and avoid entering passwords, OTPs, card details, or personal information on any page it opens.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 18.83,
+          "mode": "MULTI_FILE_IMAGE_ANALYSIS",
+          "intent": "file_or_image_analysis",
+          "admin_comparison_mode": true,
+          "phi_logged_in_dashboard": true
+        }
+      }
+    ]
+  },
+  {
+    "id": "5a410a56-27b8-4d9e-b9bc-6174941d1d42",
+    "title": "What should I do if I clicke...",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What should I do if I clicked a suspicious link?",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 75%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nClicking a suspicious link can expose you to phishing pages, malware downloads, credential theft, or session hijacking. The risk is higher if you entered passwords, payment details, personal information, downloaded a file, or granted permissions.\n\nالنصيحة:\nClose the page immediately and do not enter any information. If you downloaded a file, do not open it; delete it and run a full antivirus or anti-malware scan. If you entered a password, change it immediately from the official website or app, and enable multi-factor authentication. If you entered banking or card information, contact your bank or card issuer right away. Check your accounts for unauthorized activity and sign out of all sessions where possible. If this happened on a work or school device, report it to IT/security. Also consider clearing your browser cache/cookies and updating your browser, operating system, and security software."
+      },
+      {
+        "role": "user",
+        "content": "What should I do if I clicked a suspicious link?",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 75%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nClicking a suspicious link can expose you to phishing pages, malware downloads, credential theft, or account/session hijacking. The risk is higher if you entered any passwords, payment details, personal information, downloaded a file, installed an app, or granted permissions after opening the link.\n\nالنصيحة:\nClose the page immediately and do not enter any information. If you downloaded a file, do not open it; delete it and run a full antivirus or anti-malware scan. If you entered a password, change it immediately using the official website or app, and enable multi-factor authentication. If you entered banking or card details, contact your bank or card issuer right away. Review your accounts for unauthorized activity, sign out of active sessions where possible, and update your browser, operating system, and security software. If this happened on a work or school device, report it to IT or security support."
+      },
+      {
+        "role": "user",
+        "content": "What should I do if I clicked a suspicious link?",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 75%\n\nMode: RAG_ANALYSIS\n\nReason:\nClicking a suspicious link can expose you to phishing pages, malware downloads, credential theft, or account/session hijacking. The risk is higher if you entered passwords, payment details, personal information, downloaded a file, installed an app, or granted permissions after opening the link.\n\nRed Flags:\n- The link was unexpected, unsolicited, or came from an unknown sender.\n- The page asked for passwords, payment details, personal information, downloads, or permissions.\n- The website address looked unusual, misspelled, shortened, or different from the official domain.\n- The message used urgency, fear, rewards, or threats to make you click quickly.\n\nAdvice:\nClose the page immediately and do not enter any more information. If you downloaded a file, do not open it; delete it and run a full antivirus or anti-malware scan. If you entered a password, change it immediately using the official website or app, and enable multi-factor authentication. If you entered banking or card details, contact your bank or card issuer right away. Review your accounts for unauthorized activity, sign out of active sessions where possible, and update your browser, operating system, and security software. If this happened on a work or school device, report it to IT or security support."
+      },
+      {
+        "role": "user",
+        "content": "وصلني إشعار من تطبيق البنك الرسمي داخل التطبيق نفسه:\n\"لا تشارك كلمة المرور أو OTP مع أي شخص، حتى موظفي البنك.\"\nهل هذا آمن؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 90%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nيبدو الإشعار آمناً لأنه وصل من داخل تطبيق البنك الرسمي نفسه، ومحتواه توعوي يحذرك من مشاركة كلمة المرور أو رمز التحقق لمرة واحدة مع أي شخص. هذه رسالة أمنية شائعة ومفيدة من البنوك، وليست طلباً لإدخال بيانات أو الضغط على رابط.\n\nالعلامات الخطيرة:\n- لا توجد علامة احتيال واضحة إذا كان الإشعار فعلاً داخل تطبيق البنك الرسمي.\n- يصبح الأمر مريباً إذا طلب الإشعار إدخال كلمة المرور أو رمز التحقق أو فتح رابط خارجي.\n- يصبح الأمر مريباً إذا ظهر الإشعار خارج التطبيق أو من رقم أو رسالة غير معروفة تدّعي أنها من البنك.\n\nالنصيحة:\nلا تشارك كلمة المرور أو رمز التحقق لمرة واحدة مع أي شخص إطلاقاً، حتى لو ادعى أنه موظف في البنك. إذا أردت التأكد أكثر، افتح تطبيق البنك مباشرة من هاتفك وليس عبر رابط، وتحقق من قسم الإشعارات أو الرسائل داخل التطبيق. وإذا وصلك لاحقاً اتصال أو رسالة تطلب هذه المعلومات، اعتبرها محاولة احتيال وتواصل مع البنك عبر الرقم الرسمي."
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "guyon03a.pdf"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: guyon03a.pdf\nResult: Safe — 90%\n\nReason:\nThe extracted text is an academic journal article about variable and feature selection in machine learning. It contains normal scholarly content, author information, abstract, keywords, and technical discussion. There are no requests for passwords, OTPs, payment details, account verification, urgent action, suspicious links, fake login pages, or malware-like instructions.\n\nAdvice:\nNo phishing indicators are present in the provided text. Treat it as a normal academic PDF, while still using standard caution with any file by opening it only from trusted sources and keeping PDF software updated."
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "Assignment 1LLm.docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: Assignment 1LLm.docx\nResult: Safe — 90%\n\nReason:\nThe document appears to be a normal academic assignment about large language models, data preparation, applied AI scenarios, and ethical risks. It does not request passwords, OTPs, bank or card details, logins, urgent account action, or installation of suspicious software. There are no suspicious links or phishing-style instructions in the extracted text.\n\nAdvice:\nNo phishing risk is evident from the provided text. Treat it as a normal assignment document, but as usual, only open files from trusted sources and keep document macros disabled unless you specifically trust the sender and need them."
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "مستند .docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: مستند .docx\nResult: Safe — 90%\n\nReason:\nThe extracted document text appears to be random or nonsensical characters and does not contain any request for passwords, OTPs, banking details, login credentials, urgent account action, suspicious links, impersonation, or malware-like instructions.\n\nAdvice:\nNo phishing indicators were found in the provided text. If this document came from an unknown sender, still avoid enabling macros or opening embedded links or attachments not shown in the extracted text."
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "test.docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: test.docx\nResult: Phishing — 92%\n\nReason:\nالمحتوى يحتوي على مؤشرات تصيد قوية مثل طلب كلمة مرور أو رمز تحقق أو بيانات مالية مع وجود رابط.\n\nAdvice:\nلا تفتح الرابط ولا تدخل أي بيانات. استخدم الموقع أو التطبيق الرسمي فقط."
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "مستند .docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: مستند .docx\nResult: Phishing — 88%\n\nReason:\nالمحتوى يجمع بين رابط وتسجيل دخول واستعجال أو تهديد بالحساب.\n\nAdvice:\nلا تضغط الرابط. تحقق من الحساب من الموقع الرسمي."
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "LLMProject .docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: LLMProject .docx\nResult: Suspicious — 75%\n\nReason:\nالمستند يبدو كملاحظات أو خطة لمشروع جامعي/تقني حول بناء وتقييم نظام دردشة يعتمد على الاسترجاع وكشف الهلوسة في النماذج اللغوية. لا يحتوي النص على طلب كلمات مرور أو رموز تحقق أو بيانات بنكية أو روابط مشبوهة أو تهديد بتعليق حساب أو تعليمات تشبه البرمجيات الخبيثة.\n\nملاحظة حول خطورة الملف: قد يبدو محتوى الملف طبيعيًا، لكن نوع الملف أو تركيبه الداخلي يحتوي مؤشرات خطورة.\n\nAdvice:\nيمكن التعامل مع الملف كآمن من ناحية التصيد بناءً على النص المستخرج. مع ذلك، إذا كان الملف من مصدر غير معروف، يُفضّل فتحه في بيئة آمنة والتأكد من خلوه من وحدات ماكرو أو روابط خارجية قبل تفعيله أو مشاركة أي بيانات حساسة.\n\nنصيحة أمان للملف: لا تفتح الملفات الخطيرة مباشرة. افحص الملف بمضاد فيروسات أو Sandbox أولًا، وافتحه فقط إذا كان من مصدر موثوق."
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "safe_test.docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: safe_test.docx\nResult: Suspicious — 75%\n\nReason:\nThe extracted text contains the EICAR standard antivirus test string. This is not phishing and it is not real malware, but it is specifically designed to trigger antivirus detection, so the file should be treated cautiously.\n\nملاحظة حول خطورة الملف: قد يبدو محتوى الملف طبيعيًا، لكن نوع الملف أو تركيبه الداخلي يحتوي مؤشرات خطورة.\n\nAdvice:\nDo not open or share the file unless you intentionally created it for antivirus testing. If it was unexpected, delete it or scan it with your security tools.\n\nنصيحة أمان للملف: لا تفتح الملفات الخطيرة مباشرة. افحص الملف بمضاد فيروسات أو Sandbox أولًا، وافتحه فقط إذا كان من مصدر موثوق."
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "nano eicar_test.txt.rtf"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: nano eicar_test.txt.rtf\nResult: Safe — 90%\n\nReason:\nThe extracted text contains the standard EICAR antivirus test string, which is a harmless test pattern used to verify antivirus detection. There are no phishing indicators such as requests for passwords, OTPs, bank details, fake login pages, suspicious links, or urgent account threats.\n\nAdvice:\nNo phishing action is needed. If this file appeared unexpectedly, you may delete it or scan it with security software, but the EICAR string itself is a standard non-malicious antivirus test file."
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "safe_test.docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: safe_test.docx\nResult: Suspicious — 75%\n\nReason:\nThe extracted text contains the EICAR standard antivirus test string. This is a known harmless test pattern used to verify that antivirus software detects test files. There is no request for passwords, OTPs, banking details, login credentials, urgent account action, suspicious link, impersonation, or phishing-style message.\n\nملاحظة حول خطورة الملف: قد يبدو محتوى الملف طبيعيًا، لكن نوع الملف أو تركيبه الداخلي يحتوي مؤشرات خطورة.\n\nAdvice:\nNo phishing evidence is present in the extracted text. Be aware that antivirus software may flag or quarantine this file because it contains the EICAR test string. If you did not expect this test file, verify its purpose with the sender before opening or sharing it.\n\nنصيحة أمان للملف: لا تفتح الملفات الخطيرة مباشرة. افحص الملف بمضاد فيروسات أو Sandbox أولًا، وافتحه فقط إذا كان من مصدر موثوق."
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "test.docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: test.docx\nResult: Phishing — 92%\n\nReason:\nالمحتوى يحتوي على مؤشرات تصيد قوية مثل طلب كلمة مرور أو رمز تحقق أو بيانات مالية مع وجود رابط.\n\nملاحظة حول خطورة الملف: قد يبدو محتوى الملف طبيعيًا، لكن نوع الملف أو تركيبه الداخلي يحتوي مؤشرات خطورة.\n\nAdvice:\nلا تفتح الرابط ولا تدخل أي بيانات. استخدم الموقع أو التطبيق الرسمي فقط.\n\nنصيحة أمان للملف: لا تفتح الملفات الخطيرة مباشرة. افحص الملف بمضاد فيروسات أو Sandbox أولًا، وافتحه فقط إذا كان من مصدر موثوق."
+      },
+      {
+        "role": "user",
+        "content": "وصلني إيميل بعنوان \"PayPal Account Limited\"\nالمحتوى:\n\"Your PayPal account has been temporarily limited. Please verify your identity by logging in through this secure link: https://paypal-login-security-check.com\"\nالمرسل: support@paypaI.com\nهل الإيميل آمن؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالإيميل غير آمن ويبدو تصيدًا واضحًا ينتحل PayPal. يستخدم رسالة تخويف عن تقييد الحساب ويدعوك لتسجيل الدخول عبر رابط غير رسمي لجمع بيانات الدخول.\n\nالعلامات الخطيرة:\n- الرابط ليس نطاق PayPal الرسمي؛ النطاق الرسمي هو paypal.com وليس paypal-login-security-check.com.\n- عنوان المرسل يحتوي على خداع بصري: support@paypaI.com يستخدم حرفًا يشبه حرف L في PayPal، وليس النطاق الحقيقي.\n- الرسالة تضغط عليك بحجة أن الحساب محدود مؤقتًا وتطلب التحقق عبر رابط.\n- طلب تسجيل الدخول من رابط داخل البريد من أكثر أساليب سرقة كلمات المرور شيوعًا.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل بياناتك. افتح PayPal يدويًا من التطبيق الرسمي أو اكتب paypal.com في المتصفح وتحقق من حسابك من هناك. احذف الرسالة أو بلّغ عنها كتصيد، وإذا كنت قد أدخلت بياناتك بالفعل فغيّر كلمة المرور فورًا وفعّل المصادقة الثنائية وتحقق من أي معاملات غير معروفة."
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "safe_test.docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: safe_test.docx\nResult: Suspicious — 75%\n\nReason:\nThe document text contains the EICAR standard antivirus test string. This is not a phishing attempt by itself and it is not real malware, but it is intentionally designed to trigger antivirus detection, so the file should be treated with caution.\n\nملاحظة حول خطورة الملف: قد يبدو محتوى الملف طبيعيًا، لكن نوع الملف أو تركيبه الداخلي يحتوي مؤشرات خطورة.\n\nAdvice:\nDo not open or share the file unless you intentionally created it for antivirus testing. Scan it with trusted security software and verify the source of the document before using it.\n\nنصيحة أمان للملف: لا تفتح الملفات الخطيرة مباشرة. افحص الملف بمضاد فيروسات أو Sandbox أولًا، وافتحه فقط إذا كان من مصدر موثوق."
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "Screen Shot 2026-04-25 at 9.23.54 PM.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: Screen Shot 2026-04-25 at 9.23.54 PM.png\nResult: Safe — 90%\n\nReason:\nThe image is a normal educational lecture slide about linear regression. It explains least squares and includes a regression diagram. There are no links, login prompts, password or OTP requests, financial requests, urgency tactics, impersonation, or malware-like instructions.\n\nAdvice:\nNo action is needed from a security perspective. Treat it as ordinary educational material."
+      },
+      {
+        "role": "user",
+        "content": "A file/image was uploaded for analysis.",
+        "files": [
+          "Screen Shot 2026-03-14 at 9.28.24 PM.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "File: Screen Shot 2026-03-14 at 9.28.24 PM.png\nResult: Safe — 90%\n\nReason:\nThe image shows a simple chat message listing Python data types and whether they are mutable or immutable. There are no links, credential requests, payment requests, urgent threats, impersonation attempts, or malware-like instructions.\n\nAdvice:\nNo action is needed. Treat this as normal educational or informational content."
+      },
+      {
+        "role": "user",
+        "content": "وصلني إيميل من الجامعة من الدومين الرسمي:\n\"يرجى حضور ورشة الأمن السيبراني يوم الثلاثاء الساعة 10 صباحًا. لا يوجد روابط ولا طلب بيانات.\"\nهل هذا مشبوه؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 90%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nيبدو الإيميل آمنًا لأنه وارد من دومين الجامعة الرسمي، ومحتواه مجرد إعلان عن ورشة بوقت محدد، ولا يحتوي على روابط أو مرفقات أو طلب لتسجيل الدخول أو إدخال بيانات شخصية أو مالية.\n\nالعلامات الخطيرة:\n- لا توجد روابط مشبوهة في الرسالة\n- لا يوجد طلب لكلمة مرور أو رمز تحقق أو بيانات شخصية\n- لا توجد لهجة تهديد أو استعجال غير طبيعية\n\nالنصيحة:\nيمكنك التعامل معه كإشعار عادي من الجامعة. وللاحتياط، تأكد أن عنوان المرسل مطابق تمامًا لدومين الجامعة الرسمي، وإذا أردت التأكد أكثر فتحقق من التقويم الجامعي أو تواصل مع الجهة المنظمة عبر القنوات الرسمية."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة من متجر معروف:\n\"تم شحن طلبك رقم 12345، يمكنك متابعة الطلب من داخل التطبيق الرسمي.\"\nما فيها رابط خارجي. هل هذه آمنة؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 90%\n\nMode: RAG_ANALYSIS\nModel: gpt-5.5\nA/B Variant: A\nLatency: 8.2s\n\nالسبب:\nتبدو الرسالة آمنة غالبًا لأنها مجرد إشعار شحن لطلب، ولا تحتوي على رابط خارجي أو طلب لتسجيل الدخول أو إدخال بيانات شخصية أو مالية. كما أنها تطلب متابعة الطلب من داخل التطبيق الرسمي، وهذا سلوك أكثر أمانًا من الضغط على روابط داخل الرسائل.\n\nالعلامات الخطيرة:\n- لا توجد روابط خارجية مشبوهة في الرسالة\n- لا يوجد طلب لكلمة مرور أو رمز تحقق أو بيانات دفع\n- لا توجد صيغة تهديد أو استعجال غير طبيعية\n\nالنصيحة:\nإذا كنت تتوقع طلبًا من هذا المتجر، افتح التطبيق الرسمي بنفسك وتحقق من رقم الطلب وحالة الشحن. لا تضغط على أي روابط إذا وصلت لاحقًا في رسائل أخرى، وتأكد من أن المرسل هو القناة الرسمية للمتجر.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 8.2,
+          "mode": "RAG_ANALYSIS",
+          "intent": "analysis"
+        }
+      },
+      {
+        "role": "user",
+        "content": "شخص بعتلي:\n\"أنا صديق أخوك، محتاج تحويل بسيط بسرعة وبردلك إياه بكرة.\"\nما طلب رابط ولا كلمة مرور، بس في استعجال. كيف أصنفه؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 75%\n\nMode: LLM_ANALYSIS\nLatency: 10.18s\n\nالسبب:\nهذه الرسالة مشبوهة لأنها تعتمد على ادعاء علاقة شخصية غير مؤكدة مع أخيك، وتطلب تحويل مال بسرعة مع وعد بالإرجاع لاحقًا. حتى بدون رابط أو طلب كلمة مرور، طلب المال مع الاستعجال من شخص غير موثوق قد يكون محاولة احتيال أو انتحال شخصية.\n\nالعلامات الخطيرة:\n- طلب تحويل مالي من شخص غير موثق الهوية\n- وجود استعجال وضغط لاتخاذ قرار سريع\n- الاعتماد على علاقة غير مباشرة: صديق أخوك\n- وعد بإرجاع المال لاحقًا بدون دليل أو تحقق\n\nالنصيحة:\nلا تحول أي مبلغ قبل التحقق مباشرة. اتصل بأخيك من رقم معروف لديك واسأله إن كان يعرف هذا الشخص، واطلب من المرسل إثبات هويته بطريقة موثوقة. إذا لم تتمكن من التحقق، تجاهل الطلب أو أبلغ عنه كاحتمال احتيال.",
+        "metadata": {
+          "model_used": "microsoft/Phi-3.5-mini-instruct",
+          "ab_variant": "B",
+          "ab_test_enabled": true,
+          "latency": 10.18,
+          "mode": "LLM_ANALYSIS",
+          "intent": "analysis"
+        }
+      },
+      {
+        "role": "user",
+        "content": "إيميل من شركة توصيل يقول:\n\"يوجد تأخير في شحنتك، الرجاء التواصل معنا على واتساب لتأكيد العنوان.\"\nما في رابط، والمرسل شكله غريب: delivery.support2026@gmail.com\nهل هذا احتيال؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 86%\n\nMode: RAG_ANALYSIS\nLatency: 13.7s\n\nالسبب:\nنعم، الرسالة تبدو محاولة تصيد أو احتيال على الأرجح. السبب الأهم أن المرسل يستخدم عنوان جيميل عاديًا وليس نطاقًا رسميًا لشركة توصيل، مع طلب الانتقال إلى واتساب لتأكيد العنوان. حتى بدون وجود رابط، قد يحاول المحتال جمع بياناتك الشخصية أو دفعك لاحقًا لدفع رسوم وهمية أو مشاركة معلومات حساسة.\n\nالعلامات الخطيرة:\n- عنوان المرسل غير رسمي ولا يشبه نطاق شركة توصيل معروفة\n- طلب التواصل عبر واتساب بدل القنوات الرسمية للشركة\n- طلب تأكيد العنوان قد يكون محاولة لجمع بيانات شخصية\n- صياغة عامة لا تذكر اسم شركة التوصيل أو تفاصيل واضحة عن الشحنة\n- موضوع تأخير الشحنة يُستخدم كثيرًا كحيلة لإقناع الضحية بالرد بسرعة\n\nالنصيحة:\nلا تتواصل معهم عبر واتساب ولا ترسل عنوانك أو أي بيانات شخصية. إذا كنت تنتظر شحنة، افتح تطبيق شركة التوصيل أو موقعها الرسمي بنفسك، أو تواصل مع خدمة العملاء من رقم موجود في الموقع الرسمي. يمكنك أيضًا التحقق من رقم التتبع إن كان لديك. إذا لم تكن تتوقع شحنة، تجاهل الرسالة وبلّغ عنها كبريد احتيالي.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 13.7,
+          "mode": "RAG_ANALYSIS",
+          "intent": "analysis",
+          "admin_comparison_mode": true,
+          "phi_logged_in_dashboard": true
+        }
+      },
+      {
+        "role": "user",
+        "content": "إيميل من شركة توصيل يقول:\n\"يوجد تأخير في شحنتك، الرجاء التواصل معنا على واتساب لتأكيد العنوان.\"\nما في رابط، والمرسل شكله غريب: delivery.support2026@gmail.com\nهل هذا احتيال؟",
+        "files": []
+      },
+      {
+        "role": "user",
+        "content": "إيميل من شركة توصيل يقول: \"يوجد تأخير في شحنتك، الرجاء التواصل معنا على واتساب لتأكيد العنوان.\" ما في رابط، والمرسل شكله غريب: delivery.support2026@gmail.com هل هذا احتيال؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 86%\n\nMode: LLM_ANALYSIS\nLatency: 8.26s\n\nالسبب:\nنعم، هذه الرسالة تبدو احتيالية على الأرجح. استخدام بريد عادي من جيميل بدل نطاق رسمي لشركة توصيل، مع طلب الانتقال إلى واتساب لتأكيد العنوان، مؤشر قوي على محاولة جمع بيانات شخصية أو دفعك لاحقًا لدفع رسوم وهمية. عدم وجود رابط لا يجعل الرسالة آمنة، لأن الاحتيال قد يتم عبر المحادثة المباشرة.\n\nالعلامات الخطيرة:\n- عنوان المرسل غير رسمي ويستخدم جيميل بدل نطاق شركة توصيل معروف\n- طلب التواصل عبر واتساب بدل القنوات الرسمية للشركة\n- طلب تأكيد العنوان قد يكون محاولة لجمع بيانات شخصية\n- الرسالة عامة ولا تذكر اسم شركة التوصيل أو رقم تتبع واضح\n- موضوع تأخير الشحنة يُستخدم كثيرًا في رسائل الاحتيال\n\nالنصيحة:\nلا تتواصل معهم عبر واتساب ولا ترسل عنوانك أو أي معلومات شخصية. إذا كنت تنتظر شحنة، افتح تطبيق شركة التوصيل أو موقعها الرسمي بنفسك وتحقق من حالة الشحنة باستخدام رقم التتبع. تواصل فقط مع خدمة العملاء عبر القنوات المنشورة في الموقع الرسمي، وبلّغ عن الرسالة كاحتيال إذا لم تكن من مصدر موثوق.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 8.26,
+          "mode": "LLM_ANALYSIS",
+          "intent": "analysis",
+          "admin_comparison_mode": true,
+          "phi_logged_in_dashboard": true
+        }
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة:\n\"تم تسجيل دخول جديد إلى حسابك. إذا لم تكن أنت، تواصل مع الدعم.\"\nما فيها رابط، بس المرسل مش واضح. هل أعتبرها احتيال؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 74%\n\nMode: RAG_ANALYSIS\nLatency: 10.26s\n\nالسبب:\nالرسالة مشبوهة وليست بالضرورة احتيالًا مؤكدًا، لأنها تتحدث عن تسجيل دخول جديد وتطلب التواصل مع الدعم، لكن المرسل غير واضح. رسائل التنبيه عن تسجيل الدخول قد تكون حقيقية، لكن المحتالين يستخدمون نفس الأسلوب لإخافتك ودفعك للتواصل معهم أو إعطائهم بيانات لاحقًا. عدم وجود رابط يقلل الخطر، لكنه لا يجعل الرسالة آمنة بالكامل.\n\nالعلامات الخطيرة:\n- المرسل غير واضح أو غير موثق\n- الرسالة عامة ولا تذكر اسم الخدمة أو الحساب بوضوح\n- استخدام تنبيه أمني لإثارة القلق ودفعك للتصرف بسرعة\n- طلب التواصل مع الدعم بدون توضيح قناة رسمية موثوقة\n- قد يبدأ الاحتيال بعد الرد، حتى لو لم يكن هناك رابط في الرسالة\n\nالنصيحة:\nلا ترد على الرسالة ولا تستخدم أي رقم أو وسيلة تواصل مذكورة فيها إن وُجدت. افتح التطبيق أو الموقع الرسمي للحساب بنفسك، وتحقق من سجل تسجيلات الدخول أو التنبيهات الأمنية. إذا وجدت نشاطًا غريبًا، غيّر كلمة المرور من الموقع الرسمي وفعّل المصادقة الثنائية. إذا لم تجد أي تنبيه داخل الحساب، تجاهل الرسالة واعتبرها مشبوهة.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 10.26,
+          "mode": "RAG_ANALYSIS",
+          "intent": "analysis",
+          "admin_comparison_mode": true,
+          "phi_logged_in_dashboard": true
+        }
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة:\n\"تم تسجيل دخول جديد إلى حسابك. إذا لم تكن أنت، تواصل مع الدعم.\"\nما فيها رابط، بس المرسل مش واضح. هل أعتبرها احتيال؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 74%\n\nMode: RAG_ANALYSIS\nLatency: 7.92s\n\nالسبب:\nالرسالة مشبوهة وليست احتيالًا مؤكدًا بحد ذاتها. تنبيهات تسجيل الدخول قد تكون حقيقية أحيانًا، لكن عدم وضوح المرسل مع عبارة عامة مثل «تواصل مع الدعم» يجعلها قابلة للاستخدام في الاحتيال، خصوصًا إذا حاولوا لاحقًا أخذ كلمة مرورك أو رمز تحقق أو توجيهك إلى قناة غير رسمية. عدم وجود رابط يقلل الخطر، لكنه لا يجعل الرسالة آمنة بالكامل.\n\nالعلامات الخطيرة:\n- المرسل غير واضح أو غير موثق\n- الرسالة لا تذكر اسم الخدمة أو الحساب بشكل واضح\n- استخدام تنبيه أمني لإثارة القلق ودفعك للتصرف بسرعة\n- طلب التواصل مع الدعم بدون تحديد قناة رسمية موثوقة\n- قد يبدأ الاحتيال بعد الرد حتى لو لم يوجد رابط في الرسالة\n\nالنصيحة:\nلا ترد على الرسالة ولا تستخدم أي رقم أو وسيلة تواصل مذكورة فيها إن وُجدت. افتح التطبيق أو الموقع الرسمي للحساب بنفسك وتحقق من سجل تسجيلات الدخول أو التنبيهات الأمنية. إذا وجدت نشاطًا غير معروف، غيّر كلمة المرور من الموقع الرسمي وفعّل المصادقة الثنائية. لا تشارك رموز التحقق أو كلمة المرور مع أي شخص.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 7.92,
+          "mode": "RAG_ANALYSIS",
+          "intent": "analysis",
+          "admin_comparison_mode": true,
+          "phi_logged_in_dashboard": true
+        }
+      },
+      {
+        "role": "user",
+        "content": "شخص على واتساب يقول إنه من شركة التوصيل:\n\"عندك طرد موقوف في الجمارك، ادفع 7 شيكل رسوم توصيل من الرابط خلال ساعتين وإلا سيتم إرجاع الطرد.\"\nالرابط: http://delivery-fees-fast.net\nهل أفتح الرابط؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: LLM_ANALYSIS\nLatency: 9.89s\n\nالسبب:\nلا تفتح الرابط. الرسالة تبدو محاولة تصيد واضحة جدًا لأنها تجمع بين واتساب، رابط غير رسمي، طلب دفع مبلغ صغير، وتهديد بوقت قصير لإرجاع الطرد. شركات التوصيل والجمارك عادة لا تطلب الدفع عبر روابط عشوائية بهذا الشكل، خصوصًا من نطاق غير معروف وباستخدام اتصال غير آمن.\n\nالعلامات الخطيرة:\n- الرابط غير رسمي ولا يبدو تابعًا لشركة توصيل معروفة\n- استخدام رابط يبدأ ببروتوكول غير آمن بدل اتصال آمن\n- طلب دفع رسوم صغيرة لإقناعك بالدفع بسرعة دون تفكير\n- وجود ضغط زمني خلال ساعتين لإجبارك على التصرف بسرعة\n- التهديد بإرجاع الطرد إذا لم تدفع\n- التواصل عبر واتساب بدل القنوات الرسمية لشركة التوصيل\n- ذكر الجمارك ورسوم التوصيل أسلوب شائع في رسائل الاحتيال\n\nالنصيحة:\nلا تفتح الرابط ولا تدخل أي بيانات أو معلومات بطاقة. إذا كنت تنتظر طردًا فعلًا، تحقق من رقم التتبع عبر تطبيق أو موقع شركة التوصيل الرسمي الذي تكتبه بنفسك، وليس من الرابط المرسل. تواصل مع خدمة العملاء من رقم رسمي منشور على موقع الشركة. احذف الرسالة وبلّغ عنها في واتساب، وإذا كنت قد فتحت الرابط أو أدخلت بيانات دفع، تواصل فورًا مع البنك لإيقاف البطاقة أو مراقبة العمليات.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 9.89,
+          "mode": "LLM_ANALYSIS",
+          "intent": "analysis",
+          "admin_comparison_mode": true,
+          "phi_logged_in_dashboard": true
+        }
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة:\n\"تم ربح جائزة بقيمة 5000 شيكل. لاستلام الجائزة أرسل رقم الهوية، صورة البطاقة، ورمز التحقق الذي سيصلك الآن.\"\nهل هذا تصيد؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\nLatency: 8.4s\n\nالسبب:\nنعم، هذا تصيد واحتيال واضح جدًا. الرسالة تدّعي أنك ربحت جائزة وتطلب معلومات حساسة جدًا مثل رقم الهوية وصورة البطاقة ورمز التحقق. رمز التحقق لا يجب مشاركته مع أي شخص أبدًا، لأنه قد يُستخدم لاختراق حساباتك أو تأكيد عملية مالية أو تسجيل دخول باسمك.\n\nالعلامات الخطيرة:\n- ادعاء الفوز بجائزة بدون توضيح جهة موثوقة أو مشاركة سابقة\n- طلب رقم الهوية وصورة البطاقة، وهي بيانات شخصية حساسة\n- طلب رمز التحقق الذي سيصلك، وهذا مؤشر خطير جدًا على محاولة اختراق أو سرقة حساب\n- استخدام الجائزة كطُعم لإقناعك بإرسال معلوماتك بسرعة\n- عدم وجود إجراءات رسمية واضحة لاستلام الجائزة\n\nالنصيحة:\nلا ترسل أي معلومات ولا تشارك رمز التحقق نهائيًا. احذف الرسالة وبلّغ عنها كاحتيال. إذا كنت أرسلت رمز التحقق أو صورة البطاقة أو رقم الهوية، غيّر كلمات المرور فورًا، فعّل المصادقة الثنائية، راقب حساباتك البنكية وحساباتك الإلكترونية، وتواصل مع البنك أو الجهة المختصة إذا كان هناك احتمال لاستخدام بياناتك.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 8.4,
+          "mode": "RAG_ANALYSIS",
+          "intent": "analysis",
+          "admin_comparison_mode": true,
+          "phi_logged_in_dashboard": true
+        }
+      },
+      {
+        "role": "user",
+        "content": "Your account has been suspended. Click the link below to verify your identity immediately:\nhttp://secure-login-update.com",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\nLatency: 8.15s\n\nReason:\nThis is a phishing message. It uses a threatening account suspension claim, pressures you to act immediately, and sends you to a non-official HTTP link that appears designed to steal login or identity information. Legitimate services normally direct you to log in through their official app or website, not through a random domain like this.\n\nRed Flags:\n- Claims your account has been suspended without naming the specific service\n- Creates urgency with the word \"immediately\"\n- Asks you to verify your identity through a link\n- The domain does not appear to belong to a legitimate company\n- The link uses HTTP instead of HTTPS\n- The wording is generic and could be sent to anyone\n\nAdvice:\nDo not click the link and do not enter any personal information, passwords, or verification codes. If you are worried about an account, go directly to the official website or app by typing the address yourself, check for alerts there, and change your password only through the official channel. Report and delete the message.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 8.15,
+          "mode": "RAG_ANALYSIS",
+          "intent": "analysis",
+          "admin_comparison_mode": true,
+          "phi_logged_in_dashboard": true
+        }
+      },
+      {
+        "role": "user",
+        "content": "تم شحن طلبك رقم 12345، يمكنك متابعته من التطبيق الرسمي.",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## الرسالة تبدو آمنة غالبًا\n\nهذه الرسالة تبدو أقل خطورة من رسائل التصيد المعتادة، لأنها لا تحتوي على رابط خارجي، ولا تطلب دفع رسوم، ولا تطلب كلمة مرور أو رمز تحقق أو معلومات شخصية. كما أنها توجهك إلى متابعة الطلب من التطبيق الرسمي، وهذا سلوك آمن نسبيًا إذا كنت بالفعل تنتظر طلبًا. مع ذلك، لا يمكن الجزم بأنها حقيقية فقط من النص، لأن رقم الطلب قد يكون عامًا أو عشوائيًا. الأفضل أن تفتح تطبيق المتجر أو شركة التوصيل بنفسك، وليس من أي رابط أو رقم مرفق، ثم تتحقق من حالة الطلب داخل التطبيق الرسمي.\n\n### أمثلة\n- رسالة آمنة نسبيًا: تم شحن طلبك رقم 12345، يمكنك متابعته من التطبيق الرسمي.\n- رسالة مشبوهة: تم شحن طلبك، ادفع رسومًا إضافية من هذا الرابط خلال ساعة.\n- رسالة تصيد واضحة: طردك موقوف، أدخل بيانات البطاقة ورمز التحقق لاستلامه.\n\n### نصائح عملية\n- افتح التطبيق الرسمي بنفسك وتحقق من رقم الطلب وحالة الشحن.\n- لا تضغط على أي روابط إذا وصلت في رسائل لاحقة من نفس المرسل.\n- إذا لم تكن تنتظر أي طلب، اعتبر الرسالة مشبوهة ولا ترد عليها.\n\n### الخلاصة\nالرسالة تبدو آمنة غالبًا لأنها تطلب المتابعة من التطبيق الرسمي ولا تحتوي على رابط أو طلب بيانات، لكن تحقق من التطبيق بنفسك.",
+        "metadata": {
+          "model_used": "gpt-5.5",
+          "ab_variant": "A",
+          "ab_test_enabled": true,
+          "latency": 7.68,
+          "mode": "LLM_EDUCATIONAL",
+          "intent": "educational",
+          "admin_comparison_mode": true,
+          "phi_logged_in_dashboard": true
+        }
+      }
+    ]
+  },
+  {
+    "id": "1bd3bddd-2ae6-4429-9996-9e846e8da701",
+    "title": "You have won $5000! Click he...",
+    "messages": [
+      {
+        "role": "user",
+        "content": "You have won $5000! Click here to claim your prize now: http://fake-prize.com",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## رسالة احتيالية محتملة: جائزة وهمية ورابط مشبوه\n\nهذه الرسالة تبدو كمحاولة تصيّد إلكتروني. العبارات مثل: \"لقد ربحت 5000 دولار\" و\"اضغط هنا للمطالبة بالجائزة الآن\" تُستخدم كثيرًا لخداع المستخدمين ودفعهم إلى فتح روابط مزيفة. الرابط المذكور قد يقود إلى موقع غير آمن يطلب منك إدخال بيانات شخصية أو معلومات بنكية، أو قد يحاول تنزيل برمجيات خبيثة على جهازك. من المهم عدم النقر على الرابط وعدم مشاركة أي معلومات حساسة. الجوائز الحقيقية عادة لا تُطلب عبر رسائل عشوائية، ولا تطلب منك التصرف بسرعة أو إدخال بياناتك في موقع غير موثوق.\n\n### أمثلة\n- مثال على علامة احتيال: رسالة تخبرك أنك ربحت مبلغًا كبيرًا دون أن تشارك في أي مسابقة.\n- مثال على أسلوب ضغط: استخدام كلمات مثل \"الآن\" أو \"فرصتك الأخيرة\" لدفعك إلى النقر بسرعة.\n- مثال على رابط مشبوه: نطاق غير معروف مثل fake-prize.com يدّعي تقديم جائزة مالية.\n\n### نصائح عملية\n- لا تضغط على الرابط ولا تُدخل أي بيانات شخصية أو مالية.\n- تحقق من مصدر الرسالة وابحث عن الموقع الرسمي للشركة بدلًا من استخدام الرابط الموجود في الرسالة.\n- احذف الرسالة أو أبلغ عنها كرسالة تصيّد إذا وصلت عبر البريد الإلكتروني أو تطبيقات المراسلة.\n\n### الخلاصة\nهذه رسالة تصيّد محتملة تستخدم وعدًا بجائزة مالية لخداعك. لا تضغط على الرابط ولا تشارك بياناتك."
+      },
+      {
+        "role": "user",
+        "content": "تم إيقاف حسابك البنكي، اضغط على الرابط لتأكيد بياناتك فورًا:\nhttp://bank-security-alert.com",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة تستخدم أسلوبًا شائعًا في التصيّد: الادعاء بأن الحساب البنكي تم إيقافه ثم الضغط عليك لتأكيد البيانات فورًا عبر رابط خارجي. البنوك عادة لا تطلب تأكيد البيانات الحساسة من خلال روابط في رسائل عشوائية، والرابط لا يبدو نطاقًا رسميًا لبنك محدد بل اسم عام يوحي بالأمان.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل أي بيانات. افتح تطبيق البنك الرسمي أو اكتب عنوان موقع البنك يدويًا في المتصفح، وتواصل مع خدمة العملاء عبر الرقم الموجود على بطاقتك أو الموقع الرسمي. احذف الرسالة وأبلغ عنها كتصيّد."
+      },
+      {
+        "role": "user",
+        "content": "We noticed unusual activity. Reply with your verification code.",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## محاولة تصيّد لسرقة رمز التحقق\n\nهذه الرسالة تبدو كمحاولة تصيّد أو احتيال تهدف إلى سرقة رمز التحقق الخاص بك. عبارة مثل \"لاحظنا نشاطًا غير معتاد\" تُستخدم لإثارة القلق ودفعك للتصرف بسرعة، ثم يُطلب منك الرد برمز التحقق. رموز التحقق لمرة واحدة OTP أو أكواد المصادقة الثنائية تُستخدم لإثبات هويتك، وإذا أرسلتها لأي شخص فقد يتمكن من الدخول إلى حسابك أو تأكيد عملية احتيالية باسمك. الجهات الرسمية والبنوك والخدمات الموثوقة لا تطلب منك عادة إرسال رمز التحقق عبر رسالة نصية أو دردشة أو بريد إلكتروني.\n\n### أمثلة\n- رسالة تقول: لاحظنا نشاطًا غير معتاد، أرسل رمز التحقق فورًا لتأمين حسابك.\n- شخص ينتحل صفة دعم فني ويطلب منك كود OTP الذي وصل إلى هاتفك.\n- رسالة تدّعي أن حسابك سيتم إيقافه إذا لم ترسل رمز التأكيد خلال دقائق.\n\n### نصائح عملية\n- لا ترسل رمز التحقق لأي شخص مهما كان السبب، حتى لو ادعى أنه من البنك أو الدعم الفني.\n- ادخل إلى حسابك فقط من التطبيق أو الموقع الرسمي وتحقق من وجود تنبيهات أمنية حقيقية.\n- إذا أرسلت الرمز بالخطأ، غيّر كلمة المرور فورًا، فعّل المصادقة الثنائية، وتواصل مع الجهة الرسمية.\n\n### الخلاصة\nلا ترد برمز التحقق؛ هذه علامة قوية على محاولة تصيّد لسرقة حسابك."
+      },
+      {
+        "role": "user",
+        "content": "This is a normal message: Let's meet tomorrow at 5pm.",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## رسالة عادية لا تحتوي على مؤشرات تصيّد واضحة\n\nالرسالة: \"Let's meet tomorrow at 5pm\" تبدو رسالة عادية وبسيطة لترتيب موعد لقاء. لا تحتوي على رابط، ولا تطلب معلومات شخصية أو مالية، ولا تطلب رمز تحقق، ولا تستخدم أسلوب تهديد أو استعجال مثل إيقاف الحساب أو الفوز بجائزة. لذلك لا تظهر فيها مؤشرات واضحة على التصيّد الإلكتروني. ومع ذلك، من الجيد دائمًا التأكد من هوية المرسل إذا كانت الرسالة من رقم أو حساب غير معروف، خاصة إذا كان اللقاء يتعلق بعمل أو مال أو معلومات حساسة.\n\n### أمثلة\n- رسالة عادية: لنلتقي غدًا الساعة 5 مساءً.\n- رسالة عادية: هل يناسبك اجتماع قصير بعد الظهر؟\n- رسالة مشبوهة بالمقارنة: اضغط على هذا الرابط فورًا لتأكيد حسابك قبل إيقافه.\n\n### نصائح عملية\n- إذا كان المرسل معروفًا لديك، يمكنك الرد بشكل طبيعي لتأكيد الموعد.\n- إذا كان المرسل غير معروف، اسأله بلطف عن هويته أو سبب اللقاء قبل مشاركة أي تفاصيل إضافية.\n- لا تشارك معلومات حساسة أو تضغط على روابط إذا أُرسلت لاحقًا ضمن المحادثة دون سبب واضح.\n\n### الخلاصة\nهذه رسالة طبيعية لتحديد موعد ولا تحتوي على علامات تصيّد واضحة."
+      },
+      {
+        "role": "user",
+        "content": "Please verify your identity by sending your ID and phone number.",
+        "files": []
+      },
+      {
+        "role": "user",
+        "content": "Please verify your identity by sending your ID and phone number.",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## طلب مشبوه للتحقق من الهوية عبر إرسال الهوية ورقم الهاتف\n\nهذه الرسالة تحمل مؤشرات واضحة على محاولة تصيّد أو جمع بيانات شخصية حساسة. طلب إرسال صورة الهوية أو رقم الهوية مع رقم الهاتف عبر رسالة مباشرة يُعد خطرًا، لأن هذه المعلومات يمكن استخدامها في انتحال الهوية، فتح حسابات مزيفة، تنفيذ عمليات احتيال، أو محاولة استرجاع حساباتك لدى خدمات مختلفة. الجهات الرسمية أو الشركات الموثوقة لا تطلب عادة إرسال وثائق الهوية عبر محادثة عشوائية أو رسالة غير موثقة، بل تستخدم بوابات رسمية آمنة وتوضح سبب الطلب وسياسة حماية البيانات. إذا لم تكن تتوقع هذا الطلب أو لا تعرف الجهة المرسلة بدقة، فلا ترسل أي معلومات.\n\n### أمثلة\n- رسالة مشبوهة: أرسل صورة هويتك ورقم هاتفك لتأكيد حسابك فورًا.\n- رسالة احتيالية محتملة: نحتاج رقم الهوية وتاريخ الميلاد حتى لا يتم إغلاق حسابك.\n- طلب أكثر أمانًا: الرجاء تسجيل الدخول من التطبيق الرسمي ورفع المستندات عبر صفحة التحقق الآمنة.\n\n### نصائح عملية\n- لا ترسل صورة الهوية أو رقم الهوية أو رقم الهاتف عبر رسائل غير موثوقة.\n- تحقق من الجهة المرسلة عبر الموقع الرسمي أو التطبيق الرسمي، ولا تستخدم روابط مرسلة عشوائيًا.\n- إذا كنت قد أرسلت البيانات بالفعل، تواصل مع الجهة الرسمية، راقب حساباتك، وفعّل الحماية الإضافية مثل المصادقة الثنائية.\n\n### الخلاصة\nالرسالة مشبوهة لأنها تطلب بيانات هوية ورقم هاتف. لا ترسل معلوماتك إلا عبر قناة رسمية وآمنة."
+      },
+      {
+        "role": "user",
+        "content": "Please verify your identity by sending your ID and phone number.",
+        "files": []
+      },
+      {
+        "role": "user",
+        "content": "Please verify your identity by sending your ID and phone number.",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## Suspicious Identity Verification Request\n\nThis message is suspicious because it asks you to send sensitive personal information, specifically your ID and phone number, through an unspecified or informal channel. Criminals often use this type of request to collect data for identity theft, account takeover, SIM-swap fraud, fake account creation, or social engineering. A legitimate organization may need to verify identity in some situations, but it should direct you to a secure official website, app, or verified support process rather than asking you to send documents or personal details directly in a message. If you were not expecting this request, do not respond with your ID or phone number.\n\n### أمثلة\n- Suspicious: \"Please verify your identity by sending your ID and phone number.\"\n- Suspicious: \"Your account will be disabled unless you send your passport and mobile number now.\"\n- Safer: \"Please log in to our official app and complete identity verification through the secure verification page.\"\n\n### نصائح عملية\n- Do not send your ID, passport, national ID number, or phone number through an unverified message, email, or chat.\n- Verify the request by contacting the organization through its official website, official app, or a known customer support number.\n- If you already sent the information, monitor your accounts, contact the relevant organization, consider fraud alerts if available in your country, and enable multi-factor authentication.\n\n### الخلاصة\nThis is a suspicious request for sensitive personal information. Do not send your ID or phone number unless you verify the request through an official secure channel."
+      },
+      {
+        "role": "user",
+        "content": "تم إيقاف حسابك البنكي، اضغط على الرابط لتأكيد بياناتك فورًا: http://bank-security-alert.com",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nهذه الرسالة تبدو محاولة تصيّد واضحة لأنها تدّعي إيقاف الحساب البنكي وتستخدم أسلوب الاستعجال والضغط النفسي لدفعك إلى الضغط على رابط وتأكيد بياناتك. الرابط لا يبدو تابعًا لبنك رسمي، وعبارة مثل \"تأكيد بياناتك فورًا\" تُستخدم غالبًا لسرقة بيانات الدخول أو المعلومات البنكية.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل أي بيانات. افتح تطبيق البنك الرسمي أو اكتب عنوان موقع البنك يدويًا في المتصفح للتحقق من حالة حسابك. إذا كنت قلقًا، اتصل بخدمة عملاء البنك عبر الرقم الموجود على البطاقة أو الموقع الرسمي. احذف الرسالة وبلّغ البنك عنها إن أمكن."
+      },
+      {
+        "role": "user",
+        "content": "تم إيقاف حسابك البنكي، اضغط على الرابط لتأكيد بياناتك فورًا: http://bank-security-alert.com",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nهذه الرسالة محاولة تصيّد واضحة لأنها تدّعي إيقاف الحساب البنكي وتطلب الضغط على رابط لتأكيد البيانات فورًا. هذا الأسلوب شائع لسرقة بيانات الدخول والمعلومات البنكية، خصوصًا مع وجود رابط غير رسمي لا يبدو تابعًا لبنك معروف.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل أي بيانات. افتح تطبيق البنك الرسمي أو اكتب عنوان موقع البنك يدويًا في المتصفح للتحقق من حسابك. إذا كنت قلقًا، اتصل بالبنك عبر الرقم الموجود على بطاقتك أو على الموقع الرسمي. احذف الرسالة وبلّغ البنك عنها إن أمكن."
+      }
+    ]
+  },
+  {
+    "id": "f3218805-236f-4dc7-9b0f-40efdc9a1af7",
+    "title": "هل الرسالة التالية تستخدم أس...",
+    "messages": [
+      {
+        "role": "user",
+        "content": "هل الرسالة التالية تستخدم أسلوب ضغط أو تخويف؟\n\n\"إذا لم تؤكد بياناتك الآن سيتم إغلاق حسابك نهائياً.\"",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 93%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nنعم، الرسالة تستخدم أسلوب ضغط وتخويف واضح عبر التهديد بإغلاق الحساب نهائياً إذا لم يتم تأكيد البيانات فوراً. هذا أسلوب شائع في رسائل التصيد لدفع الضحية للتصرف بسرعة دون التحقق.\n\nالنصيحة:\nلا تؤكد أي بيانات عبر رابط أو رسالة مشابهة. تحقق من حسابك فقط عبر التطبيق أو الموقع الرسمي بكتابة العنوان بنفسك، ولا تضغط على أي روابط مرفقة. إذا وصلت الرسالة من جهة تدّعي أنها بنك أو خدمة معروفة، تواصل مع دعمها الرسمي مباشرة."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة تقول:\n\"ربحت 10,000$ بدون ما أشارك بأي مسابقة\"\nهل هذا منطقي؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nلا، هذا غير منطقي غالباً. الادعاء بأنك ربحت مبلغاً كبيراً مثل 10,000$ بدون أن تشارك في أي مسابقة هو نمط شائع جداً في رسائل الاحتيال والتصيد. عادةً يحاول المحتالون جذبك بوعد مالي ثم يطلبون منك لاحقاً بيانات شخصية أو بنكية أو رسوماً لتحويل الجائزة.\n\nالنصيحة:\nلا تضغط على أي رابط ولا ترسل أي بيانات أو صور هوية أو معلومات بنكية. لا تدفع أي رسوم لاستلام الجائزة. إذا كانت الرسالة تدّعي أنها من شركة معروفة، تحقق فقط عبر الموقع أو التطبيق الرسمي بكتابة العنوان بنفسك، واحذف الرسالة أو أبلغ عنها كاحتيال."
+      },
+      {
+        "role": "user",
+        "content": "هل طلب رمز التحقق من المستخدم يعتبر مؤشر خطر؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 75%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nنعم، طلب رمز التحقق من المستخدم يُعد مؤشر خطر قوي، خصوصاً إذا جاء عبر رسالة أو مكالمة أو رابط غير رسمي. رموز التحقق مثل OTP أو كود الدخول تستخدم لإثبات هويتك، ومشاركتها مع أي شخص قد تسمح له بالدخول إلى حسابك أو تنفيذ عمليات باسمك.\n\nالنصيحة:\nلا تشارك رمز التحقق مع أي شخص أبداً، حتى لو ادعى أنه من البنك أو الدعم الفني. استخدم التطبيق أو الموقع الرسمي فقط، وإذا وصلك طلب كهذا فتجاهله وأبلغ الجهة الرسمية عبر قنواتها المعروفة."
+      },
+      {
+        "role": "user",
+        "content": "كيف اتعلم البرمجة؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## كيف تتعلم البرمجة من الصفر\n\nلتعلم البرمجة بشكل صحيح، ابدأ بفهم الفكرة الأساسية: البرمجة هي إعطاء أوامر للحاسوب لحل مشكلة أو تنفيذ مهمة. لا تحتاج أن تبدأ بكل اللغات مرة واحدة؛ اختر لغة واحدة مناسبة للمبتدئين مثل Python لأنها سهلة القراءة وتستخدم في مجالات كثيرة مثل تطوير المواقع، تحليل البيانات، الذكاء الاصطناعي، وحتى الأمن السيبراني. ابدأ بتعلم الأساسيات مثل المتغيرات، الشروط، الحلقات التكرارية، الدوال، والقوائم. بعد ذلك طبّق ما تتعلمه بمشاريع صغيرة، لأن البرمجة لا تُتعلم بالمشاهدة فقط بل بالممارسة اليومية. من المهم أيضاً أن تتعلم كيف تبحث عن الأخطاء وتقرأ رسائل الخطأ، فهذا جزء طبيعي من عمل المبرمج. بعد أن ترتاح مع الأساسيات، اختر مساراً مثل تطوير الويب، تطبيقات الهاتف، تحليل البيانات، أو الأمن السيبراني، ثم تعلم الأدوات المناسبة لهذا المسار.\n\n### أمثلة\n- ابدأ بلغة Python وتعلم كتابة برامج بسيطة مثل آلة حاسبة أو برنامج يحسب درجات الطلاب.\n- إذا أردت تطوير مواقع، تعلم HTML وCSS ثم JavaScript، وبعدها تعلم إطار عمل مثل React أو backend مثل Node.js أو Django.\n- إذا كنت مهتماً بالأمن السيبراني، تعلم أساسيات الشبكات ونظام Linux وPython، ثم تدرب في بيئات قانونية مثل TryHackMe أو Hack The Box Academy.\n\n### نصائح عملية\n- خصص 30 إلى 60 دقيقة يومياً للتعلم والتطبيق بدلاً من الدراسة المتقطعة لساعات طويلة.\n- لا تكتفِ بمشاهدة الدروس؛ اكتب الكود بنفسك وعدّله وجرب كسره وإصلاحه.\n- ابنِ مشاريع صغيرة وضعها في GitHub لتتبع تقدمك وتكوين ملف أعمال بسيط.\n\n### الخلاصة\nابدأ بلغة سهلة مثل Python، تعلم الأساسيات، مارس يومياً بمشاريع صغيرة، ثم اختر مساراً مناسباً مثل الويب أو البيانات أو الأمن السيبراني."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة من البنك تقول إن حسابي مهدد بالإغلاق خلال ساعة، وفيها رابط لتحديث كلمة المرور.",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nهذه الرسالة تحمل مؤشرات تصيد واضحة جداً: تدّعي أنها من البنك، تستخدم تهديداً عاجلاً بإغلاق الحساب خلال ساعة، وتطلب تحديث كلمة المرور عبر رابط. البنوك عادة لا تطلب تحديث كلمة المرور من خلال روابط في رسائل مفاجئة، ولا تستخدم هذا النوع من الضغط لدفعك للتصرف بسرعة.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل كلمة المرور أو أي بيانات. افتح تطبيق البنك الرسمي أو اكتب عنوان موقع البنك بنفسك في المتصفح، وتحقق من وجود أي تنبيه داخل الحساب. تواصل مع خدمة عملاء البنك عبر الرقم الرسمي الموجود على البطاقة أو الموقع الرسمي، وأبلغ عن الرسالة كتصيد."
+      },
+      {
+        "role": "user",
+        "content": "طيب شو لازم اعمل ؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## ماذا تفعل عند وصول رسالة مشبوهة من البنك؟\n\nلا تضغط على الرابط الموجود في الرسالة ولا تدخل كلمة المرور أو رمز التحقق أو أي بيانات بنكية. الرسالة التي تقول إن حسابك سيُغلق خلال ساعة وتطلب تحديث كلمة المرور عبر رابط تُعد غالباً محاولة تصيد، لأنها تستخدم الاستعجال والخوف لدفعك للتصرف بسرعة. التصرف الصحيح هو التحقق من حسابك عبر القنوات الرسمية فقط: افتح تطبيق البنك المثبت لديك مسبقاً، أو اكتب عنوان موقع البنك بنفسك في المتصفح، أو اتصل برقم خدمة العملاء الموجود على البطاقة البنكية أو الموقع الرسمي. إذا كنت قد ضغطت على الرابط أو أدخلت بياناتك، غيّر كلمة المرور فوراً من التطبيق أو الموقع الرسمي، واتصل بالبنك لإيقاف أي عمليات مشبوهة، وراقب حسابك.\n\n### أمثلة\n- إذا لم تضغط على الرابط: احذف الرسالة أو بلّغ عنها كاحتيال، ثم تحقق من التطبيق الرسمي للبنك.\n- إذا ضغطت على الرابط فقط ولم تدخل بيانات: أغلق الصفحة، لا تُكمل، ويفضل فحص الجهاز وتجنب استخدام الرابط مرة أخرى.\n- إذا أدخلت كلمة المرور أو رمز تحقق: غيّر كلمة المرور فوراً من الموقع الرسمي، واتصل بالبنك واطلب تأمين الحساب.\n\n### نصائح عملية\n- لا تشارك رمز التحقق OTP مع أي شخص حتى لو ادعى أنه موظف بنك.\n- لا تدخل إلى حسابك البنكي من روابط الرسائل؛ استخدم التطبيق الرسمي أو اكتب عنوان الموقع بنفسك.\n- فعّل التنبيهات البنكية والمصادقة الثنائية، وراقب أي عمليات غير معروفة في حسابك.\n\n### الخلاصة\nلا تضغط على الرابط. تحقق فقط عبر تطبيق البنك أو الموقع الرسمي، واتصل بالبنك إذا أدخلت أي بيانات أو لاحظت نشاطاً غريباً."
+      },
+      {
+        "role": "user",
+        "content": "وصلني إيميل بعنوان \"PayPal Account Limited\"\nالمحتوى:\n\"Your PayPal account has been temporarily limited. Please verify your identity by logging in through this secure link: https://paypal-login-security-check.com\"\nالمرسل: support@paypaI.com\nهل الإيميل آمن؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nلا، الإيميل غير آمن ويبدو محاولة تصيد واضحة. الرسالة تدّعي أنها من PayPal وتقول إن الحساب مقيّد وتطلب تسجيل الدخول عبر رابط للتحقق من الهوية، لكن الرابط ليس نطاق PayPal الرسمي. كذلك عنوان المرسل يحتوي على خدعة بصرية: support@paypaI.com حيث يبدو مثل paypal.com لكن الحرف الأخير قبل .com هو على الأغلب حرف I كبير وليس حرف l، وهذا أسلوب شائع لانتحال العلامات التجارية.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل بيانات PayPal أو كلمة المرور. افتح PayPal فقط بكتابة العنوان الرسمي https://www.paypal.com بنفسك في المتصفح أو عبر التطبيق الرسمي. إذا كنت قد أدخلت بياناتك في الرابط، غيّر كلمة المرور فوراً من الموقع الرسمي، فعّل المصادقة الثنائية، وراجع العمليات الأخيرة، ثم أبلغ PayPal عن الرسالة كتصيد."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "test.docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: test.docx\nالنتيجة: Phishing — 92%\n\nالسبب:\nالمحتوى يحتوي على مؤشرات تصيد قوية مثل طلب كلمة مرور أو رمز تحقق أو بيانات مالية مع وجود رابط.\n\nالنصيحة:\nلا تفتح الرابط ولا تدخل أي بيانات. استخدم الموقع أو التطبيق الرسمي فقط."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "logo-page-print.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: logo-page-print.png\nالنتيجة: Safe — 90%\n\nالسبب:\nالصورة تعرض شعار جامعة فلسطين الأهلية فقط، ولا تحتوي على روابط أو طلبات تسجيل دخول أو معلومات حساسة أو أي تعليمات خطرة.\n\nالنصيحة:\nلا يوجد إجراء مطلوب. يمكن التعامل مع الصورة كشعار عادي طالما لم تكن مرفقة برسالة تطلب بيانات حساسة أو تضغط على رابط خارجي."
+      },
+      {
+        "role": "user",
+        "content": "وصلني إشعار من تطبيق البنك الرسمي داخل التطبيق نفسه:\n\"لا تشارك كلمة المرور أو OTP مع أي شخص، حتى موظفي البنك.\"\nهل هذا آمن؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 90%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالإشعار يبدو آمناً لأنه صادر من داخل تطبيق البنك الرسمي ويقدّم نصيحة أمنية صحيحة: عدم مشاركة كلمة المرور أو رمز التحقق OTP مع أي شخص، حتى لو ادعى أنه موظف البنك. هذه رسالة توعوية شائعة من البنوك ولا تطلب منك الضغط على رابط أو إدخال بيانات.\n\nالنصيحة:\nلا تشارك كلمة المرور أو رمز OTP مع أي شخص إطلاقاً. إذا وصلك لاحقاً اتصال أو رسالة تطلب الرمز أو كلمة المرور، اعتبرها محاولة احتيال. تأكد فقط أن التطبيق هو التطبيق الرسمي للبنك ومثبت من المتجر الرسمي."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة من البنك تقول إن حسابي مهدد بالإغلاق خلال ساعة، وفيها رابط لتحديث كلمة المرور.",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nهذه الرسالة تبدو محاولة تصيد واضحة لأنها تستخدم التهديد والاستعجال بعبارة أن الحساب سيُغلق خلال ساعة، وتطلب تحديث كلمة المرور عبر رابط. البنوك عادة لا تطلب تحديث كلمات المرور أو إدخال بيانات حساسة عبر روابط مرسلة في الرسائل، بل توجّهك لاستخدام التطبيق الرسمي أو الموقع الرسمي مباشرة.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل كلمة المرور أو أي رمز تحقق. افتح تطبيق البنك الرسمي أو اكتب عنوان موقع البنك بنفسك في المتصفح للتحقق من الحساب. إذا كنت قد ضغطت على الرابط أو أدخلت بياناتك، غيّر كلمة المرور فوراً من التطبيق الرسمي، تواصل مع البنك عبر الرقم الموجود على بطاقتك أو موقعه الرسمي، وراقب أي عمليات غير معروفة."
+      },
+      {
+        "role": "user",
+        "content": "طيب شو أعمل خطوة بخطوة؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## خطوات التعامل مع رسالة تصيد تدّعي أنها من البنك\n\nإذا وصلتك رسالة تقول إن حسابك مهدد بالإغلاق خلال ساعة وتطلب منك تحديث كلمة المرور عبر رابط، تعامل معها كرسالة تصيد حتى يثبت العكس. اتبع الخطوات التالية: 1) لا تضغط على الرابط الموجود في الرسالة، ولا تفتح أي مرفق. 2) لا تدخل كلمة المرور أو رقم البطاقة أو رمز OTP أو أي بيانات شخصية. 3) احذف الرسالة أو علّمها كرسالة احتيالية/Spam من تطبيق الرسائل أو البريد. 4) افتح تطبيق البنك الرسمي المثبت من المتجر، أو اكتب عنوان موقع البنك بنفسك في المتصفح، ولا تستخدم الرابط الموجود في الرسالة. 5) تحقق من وجود أي تنبيه داخل التطبيق الرسمي فقط. 6) إذا لم تجد أي إشعار رسمي، فغالباً الرسالة احتيالية. 7) اتصل بالبنك من الرقم الرسمي الموجود على بطاقتك البنكية أو موقع البنك الرسمي، وليس من أي رقم موجود في الرسالة. 8) أبلغ البنك بمحتوى الرسالة والرابط ورقم المرسل إن وجد. 9) إذا كنت ضغطت على الرابط فقط ولم تدخل بيانات، أغلق الصفحة فوراً وافحص الجهاز إن أمكن، ولا تكمل أي خطوة داخل الموقع. 10) إذا أدخلت كلمة المرور أو بيانات البطاقة أو رمز OTP، غيّر كلمة مرور حسابك البنكي فوراً من التطبيق الرسمي، واتصل بالبنك فوراً لطلب تأمين الحساب وربما إيقاف البطاقة مؤقتاً. 11) راجع آخر العمليات البنكية، وأبلغ البنك فوراً عن أي عملية لا تعرفها. 12) فعّل المصادقة الثنائية والتنبيهات الفورية للعمليات إذا كانت متاحة.\n\n### أمثلة\n- رسالة احتيالية: \"حسابك سيُغلق خلال ساعة، اضغط هنا لتحديث كلمة المرور\".\n- تصرف آمن: افتح تطبيق البنك الرسمي بنفسك وتحقق من التنبيهات دون استخدام رابط الرسالة.\n- إذا أدخلت OTP في الرابط، اتصل بالبنك فوراً لأن المحتال قد يحاول تنفيذ عملية مباشرة.\n\n### نصائح عملية\n- لا تثق بأي رسالة تستخدم التهديد أو الاستعجال مثل: خلال ساعة، سيتم الإغلاق، آخر فرصة.\n- البنك لا يطلب منك كلمة المرور أو رمز OTP عبر رابط في رسالة SMS أو بريد إلكتروني.\n- احفظ رقم خدمة العملاء الرسمي للبنك من البطاقة أو الموقع الرسمي، ولا تتصل بأي رقم مرفق في رسالة مشبوهة.\n\n### الخلاصة\nلا تضغط على الرابط. افتح تطبيق البنك الرسمي أو اتصل بالبنك من الرقم الرسمي. إذا أدخلت بياناتك، غيّر كلمة المرور فوراً واتصل بالبنك لتأمين الحساب."
+      },
+      {
+        "role": "user",
+        "content": "إذا فتحت الرابط بالغلط بس ما كتبت معلومات، هل في خطر؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 75%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nفتح رابط مشبوه بالخطأ بدون إدخال أي معلومات غالباً لا يعني أن الحساب البنكي اختُرق، خصوصاً إذا لم تكتب كلمة مرور أو رقم بطاقة أو OTP ولم تحمّل أي ملف. لكن يبقى هناك خطر محدود مثل تتبع الزيارة، محاولة تنزيل ملف خبيث، أو استغلال ثغرة في المتصفح/الجهاز إذا كان غير محدّث.\n\nالنصيحة:\nأغلق الصفحة فوراً ولا تدخل أي بيانات. لا تحمّل أي ملف من الصفحة. امسح سجل/كاش المتصفح إن رغبت، وحدّث المتصفح ونظام الجهاز. افحص الجهاز بمضاد فيروسات موثوق إذا لاحظت تنزيل ملف أو سلوكاً غريباً. افتح تطبيق البنك الرسمي فقط وتأكد من عدم وجود عمليات غير معروفة. إذا لم تدخل أي معلومات ولم تعطِ أذونات ولم تثبّت شيئاً، فغالباً الخطر منخفض، لكن لا تستخدم الرابط مرة أخرى."
+      },
+      {
+        "role": "user",
+        "content": "إذا كتبت كلمة المرور، شو لازم أعمل فورًا؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: LLM_ANALYSIS\n\nالسبب:\nبما أنك أدخلت كلمة المرور في رابط مشبوه يدّعي أنه من البنك، فيجب التعامل مع الأمر كاختراق محتمل أو محاولة تصيد ناجحة. الخطر الأساسي أن المحتال قد يحاول الدخول إلى حسابك أو تنفيذ عمليات، خصوصاً إذا طلب منك لاحقاً رمز OTP.\n\nالنصيحة:\nافعل فوراً: 1) لا تدخل أي رمز OTP ولا تشاركه مع أحد. 2) افتح تطبيق البنك الرسمي أو الموقع بكتابته يدوياً، وليس من الرابط، وغيّر كلمة المرور فوراً. 3) إذا كنت تستخدم نفس كلمة المرور في خدمات أخرى، غيّرها هناك أيضاً. 4) اتصل بالبنك فوراً من الرقم الرسمي الموجود على البطاقة أو الموقع الرسمي واطلب تأمين الحساب ومراجعة العمليات وربما إيقاف البطاقة مؤقتاً. 5) راجع آخر العمليات البنكية وبلّغ عن أي عملية لا تعرفها. 6) فعّل التنبيهات الفورية والمصادقة الثنائية إن كانت متاحة. 7) احذف الرسالة ولا تضغط على الرابط مرة أخرى. إذا أدخلت أيضاً OTP أو بيانات البطاقة، اتصل بالبنك بشكل عاجل جداً لأن الخطر أعلى."
+      }
+    ]
+  },
+  {
+    "id": "932a4d42-3f22-4b6a-a386-23d330963308",
+    "title": "تم رفع ملف/صورة للتحقق منها.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "LLMProject .docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: LLMProject .docx\nالنتيجة: Safe — 90%\n\nالسبب:\nالنص عبارة عن ملاحظات/شرح لمشروع جامعي أو تقني حول بناء نظام RAG وتقييم الهلوسة باستخدام أدوات مثل LangSmith وRAGAS وPhoenix. يحتوي على شرح معماري، مقاييس تقييم، وخطوات تنفيذية وأمثلة أسئلة وأخطاء برمجية. لا توجد طلبات للحصول على كلمات مرور أو رموز تحقق أو بيانات بنكية، ولا توجد روابط مشبوهة أو انتحال جهة أو تهديد بإيقاف حساب أو تعليمات تشبه البرمجيات الخبيثة.\n\nالنصيحة:\nالملف يبدو آمنًا من منظور التصيد. يمكن التعامل معه كمستند تعليمي/مشروع، مع الانتباه فقط عند تشغيل أي كود مذكور والتأكد من مصدر المكتبات ومفاتيح API وعدم مشاركة المفاتيح السرية داخل الدفاتر أو الملفات."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة من البنك تقول إن حسابي مهدد بالإغلاق خلال ساعة، وفيها رابط لتحديث كلمة المرور.",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة تحمل علامات تصيد واضحة: تدّعي أنها من البنك، تستخدم تهديدًا عاجلًا بإغلاق الحساب خلال ساعة، وتطلب الضغط على رابط لتحديث كلمة المرور. البنوك عادة لا تطلب تحديث كلمات المرور عبر روابط في الرسائل، ولا تستخدم هذا الأسلوب الضاغط لدفعك للتصرف بسرعة.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل أي بيانات. افتح تطبيق البنك الرسمي أو اكتب عنوان موقع البنك يدويًا في المتصفح للتحقق من حالة الحساب. تواصل مع خدمة العملاء من رقم الهاتف الموجود على البطاقة أو الموقع الرسمي، واحذف الرسالة أو أبلغ البنك عنها. إذا كنت قد أدخلت كلمة المرور بالفعل، غيّرها فورًا من القناة الرسمية وفعّل المصادقة الثنائية وراقب العمليات البنكية."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة من متجر معروف:\n\"تم شحن طلبك رقم 12345، يمكنك متابعة الطلب من داخل التطبيق الرسمي.\"\nما فيها رابط خارجي. هل هذه آمنة؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 86%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة تبدو آمنة غالبًا لأنها لا تحتوي على رابط خارجي، ولا تطلب كلمة مرور أو رمز تحقق أو بيانات دفع، وتوجّهك لمتابعة الطلب من داخل التطبيق الرسمي فقط. هذا سلوك طبيعي في إشعارات الشحن من المتاجر.\n\nالنصيحة:\nافتح التطبيق الرسمي للمتجر بنفسك وتحقق من الطلب رقم 12345 من داخله. إذا كان لديك طلب فعلي بهذا الرقم أو قريب منه فالرسالة غالبًا صحيحة. لا تتفاعل مع أي روابط أو أرقام قد تصلك لاحقًا، ولا تشارك رموز تحقق أو بيانات بطاقة."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة من متجر معروف:\n\"تم شحن طلبك رقم 12345، يمكنك متابعة الطلب من داخل التطبيق الرسمي.\"\nما فيها رابط خارجي. هل هذه آمنة؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 86%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة تبدو آمنة غالبًا لأنها لا تحتوي على رابط خارجي، ولا تطلب كلمة مرور أو رمز تحقق أو بيانات دفع، وتوجّهك لمتابعة الطلب من داخل التطبيق الرسمي فقط. هذا يتوافق مع أسلوب إشعارات الشحن المعتادة من المتاجر.\n\nالنصيحة:\nافتح التطبيق الرسمي للمتجر بنفسك وتحقق من الطلب رقم 12345 من داخله. إذا كان لديك طلب فعلي بهذا الرقم أو إشعار مطابق فالرسالة غالبًا صحيحة. لا تضغط على أي روابط قد تصلك لاحقًا ولا تشارك رموز تحقق أو بيانات بطاقة."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة من متجر معروف:\n\"تم شحن طلبك رقم 12345، يمكنك متابعة الطلب من داخل التطبيق الرسمي.\"\nما فيها رابط خارجي. هل هذه آمنة؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 86%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة تبدو آمنة غالبًا لأنها لا تحتوي على رابط خارجي، ولا تطلب إدخال كلمة مرور أو رمز تحقق أو بيانات بطاقة، وتوجهك لمتابعة الطلب من داخل التطبيق الرسمي فقط. هذا يتوافق مع إشعارات الشحن المعتادة من المتاجر المعروفة.\n\nالنصيحة:\nافتح التطبيق الرسمي للمتجر بنفسك وتحقق من الطلب رقم 12345 من داخله. إذا كان لديك طلب فعلي مطابق فالرسالة غالبًا صحيحة. لا تضغط على أي روابط قد تصلك لاحقًا، ولا تشارك رموز تحقق أو بيانات دفع مع أي جهة عبر الرسائل."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "Screen Shot 2026-04-25 at 9.23.54 PM.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: Screen Shot 2026-04-25 at 9.23.54 PM.png\nالنتيجة: Safe — 90%\n\nالسبب:\nالمحتوى الظاهر عبارة عن شريحة تعليمية تشرح الانحدار الخطي وطريقة المربعات الصغرى مع رسم توضيحي. لا توجد روابط، أو طلبات تسجيل دخول، أو طلب كلمات مرور/رموز تحقق، أو معلومات مالية، أو تعليمات تنزيل مشبوهة.\n\nالنصيحة:\nلا توجد مؤشرات تصيد في هذه الصورة. يمكن التعامل معها كمحتوى تعليمي عادي، مع الاستمرار دائمًا في الحذر من أي روابط أو مرفقات غير موثوقة إن ظهرت خارج هذه الشريحة."
+      },
+      {
+        "role": "user",
+        "content": "ما الاخبار اليوم ؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## متابعة الأخبار اليومية بأمان\n\nلا أستطيع تزويدك بالأخبار المباشرة أو آخر المستجدات لحظة بلحظة لأنني لا أملك وصولًا فوريًا إلى الإنترنت أو نشرات الأخبار الحالية من داخل هذه المحادثة. لمعرفة أخبار اليوم، يُفضّل الرجوع إلى مصادر إخبارية موثوقة مثل المواقع الرسمية للصحف والقنوات المعروفة، أو وكالات الأنباء، أو التطبيقات الإخبارية المعتمدة. ومن منظور الأمن السيبراني، انتبه إلى أن الأخبار العاجلة كثيرًا ما تُستغل في حملات التصيد ونشر الروابط الخبيثة، خصوصًا الرسائل التي تقول: خبر عاجل، اضغط هنا، شاهد قبل الحذف، أو تطلب منك تسجيل الدخول لمشاهدة الخبر.\n\n### أمثلة\n- مثال آمن: فتح موقع وكالة أنباء معروفة بكتابة العنوان يدويًا في المتصفح.\n- مثال مشبوه: رسالة واتساب تقول: خبر عاجل جدًا، اضغط الرابط فورًا، مع رابط قصير غير واضح.\n- مثال آمن: متابعة الأخبار من تطبيق رسمي تم تحميله من متجر التطبيقات المعتمد.\n\n### نصائح عملية\n- تحقق من الخبر من أكثر من مصدر موثوق قبل تصديقه أو مشاركته.\n- لا تضغط على روابط الأخبار العاجلة المرسلة من أرقام مجهولة أو حسابات غير موثوقة.\n- تجنب إدخال بياناتك الشخصية أو كلمة المرور في صفحات تدّعي أنها تعرض خبرًا أو بثًا مباشرًا.\n\n### الخلاصة\nلا أستطيع عرض أخبار اليوم مباشرة، لكن يمكنك متابعتها من مصادر موثوقة مع الحذر من روابط الأخبار العاجلة المشبوهة."
+      }
+    ]
+  },
+  {
+    "id": "571dc403-336e-44ae-a06d-5ce0f9e26059",
+    "title": "كيف اتعلم البرمجة؟",
+    "messages": [
+      {
+        "role": "user",
+        "content": "كيف اتعلم البرمجة؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## كيف تبدأ تعلم البرمجة خطوة بخطوة\n\nلتعلم البرمجة بشكل صحيح، ابدأ بفهم أن البرمجة هي طريقة للتفكير وحل المشكلات وليست مجرد كتابة أكواد. اختر لغة برمجة مناسبة للمبتدئين مثل Python لأنها سهلة القراءة وكثيرة الاستخدام. بعد ذلك تعلم الأساسيات مثل المتغيرات، الشروط، الحلقات، الدوال، القوائم، وطريقة التعامل مع الأخطاء. لا تكتفِ بالمشاهدة أو القراءة فقط؛ يجب أن تكتب الكود بيدك وتجرّب كثيرًا. بعد فهم الأساسيات، طبّق ما تعلمته في مشاريع صغيرة مثل آلة حاسبة، برنامج لإدارة المهام، أو لعبة بسيطة. مع الوقت يمكنك اختيار مجال متخصص مثل تطوير المواقع، تطبيقات الهاتف، الذكاء الاصطناعي، تحليل البيانات، أو الأمن السيبراني. المهم هو الاستمرارية، حل المشكلات يوميًا، وقراءة أكواد الآخرين لفهم أساليب مختلفة في البرمجة.\n\n### أمثلة\n- ابدأ بلغة Python وتعلم كتابة برنامج بسيط يطبع رسالة مثل: Hello World.\n- أنشئ مشروعًا صغيرًا مثل آلة حاسبة تجمع وتطرح وتضرب وتقسم الأرقام.\n- بعد تعلم الأساسيات، جرّب بناء موقع بسيط باستخدام HTML وCSS وJavaScript.\n\n### نصائح عملية\n- خصص من 30 إلى 60 دقيقة يوميًا للتعلم والتطبيق بدلًا من الدراسة المتقطعة.\n- لا تنتقل بين لغات كثيرة في البداية؛ اختر لغة واحدة وأتقن أساسياتها أولًا.\n- استخدم مصادر تدريبية تفاعلية وطبّق مشاريع عملية، واحتفظ بأكوادك على GitHub لتتبع تقدمك.\n\n### الخلاصة\nابدأ بلغة سهلة مثل Python، تعلم الأساسيات، طبّق بمشاريع صغيرة، واستمر في التدريب اليومي حتى تتطور تدريجيًا."
+      },
+      {
+        "role": "user",
+        "content": "ما هو الاختراق الامني",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## ما هو الاختراق الأمني؟\n\nالاختراق الأمني هو وصول غير مصرح به إلى نظام أو جهاز أو شبكة أو حساب أو بيانات، بهدف الاطلاع عليها أو تعديلها أو تعطيلها أو سرقتها. يحدث الاختراق عندما يستغل المهاجم ثغرة أمنية مثل كلمة مرور ضعيفة، برنامج غير محدث، إعدادات خاطئة، أو خداع المستخدم عبر رسائل التصيد. ليس كل اختراق يكون معقدًا؛ أحيانًا يبدأ برسالة مزيفة تطلب منك إدخال كلمة المرور، أو رابط خبيث يثبت برنامجًا ضارًا على الجهاز. في مجال الأمن السيبراني، نميز بين الاختراق الضار الذي يهدف للأذى أو السرقة، وبين الاختبار الأمني الأخلاقي الذي يتم بإذن قانوني من صاحب النظام بهدف اكتشاف الثغرات وإصلاحها. فهم معنى الاختراق يساعدك على حماية نفسك وشركتك من فقدان البيانات، سرقة الحسابات، أو تعطيل الخدمات.\n\n### أمثلة\n- اختراق حساب بريد إلكتروني بسبب استخدام كلمة مرور سهلة مثل 123456 أو إعادة استخدام نفس كلمة المرور في أكثر من موقع.\n- هجوم تصيد إلكتروني حيث تصل رسالة تبدو كأنها من البنك وتطلب من المستخدم إدخال بياناته في صفحة مزيفة.\n- استغلال برنامج قديم غير محدث يحتوي على ثغرة، مما يسمح للمهاجم بالدخول إلى الجهاز أو الخادم.\n\n### نصائح عملية\n- استخدم كلمات مرور قوية وفريدة لكل حساب، وفعّل المصادقة الثنائية لحماية الحسابات المهمة.\n- لا تضغط على الروابط المشبوهة ولا تفتح المرفقات غير المعروفة، وتحقق دائمًا من عنوان الموقع والمرسل.\n- حدّث نظام التشغيل والبرامج والمتصفح باستمرار، لأن التحديثات غالبًا تصلح ثغرات أمنية خطيرة.\n\n### الخلاصة\nالاختراق الأمني هو وصول غير مصرح به إلى الأنظمة أو البيانات عبر استغلال ثغرات أو خداع المستخدمين، ويمكن الوقاية منه بكلمات مرور قوية، تحديثات مستمرة، وحذر من الروابط والرسائل المشبوهة."
+      },
+      {
+        "role": "user",
+        "content": "وصلني إيميل من الجامعة من الدومين الرسمي:\n\"يرجى حضور ورشة الأمن السيبراني يوم الثلاثاء الساعة 10 صباحًا. لا يوجد روابط ولا طلب بيانات.\"\nهل هذا مشبوه؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 90%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة تبدو آمنة لأنها واردة من دومين الجامعة الرسمي، ومحتواها مجرد إعلان عن ورشة بوقت محدد، ولا تحتوي على روابط أو مرفقات أو طلب إدخال بيانات شخصية أو كلمات مرور.\n\nالنصيحة:\nيبدو أنها غير مشبوهة. للتأكد أكثر، تحقق من أن عنوان المرسل مكتوب بشكل صحيح وليس مشابهًا للدومين الرسمي، ويمكنك مقارنة الموعد مع موقع الجامعة أو التقويم الجامعي أو سؤال الجهة المنظمة إذا كان لديك شك."
+      },
+      {
+        "role": "user",
+        "content": "ما اخبار العالم اليوم ؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## متابعة أخبار العالم اليوم بشكل موثوق وآمن\n\nلا أستطيع تزويدك بأخبار العالم اللحظية أو المؤكدة لهذا اليوم لأنني لا أملك وصولًا مباشرًا إلى الإنترنت أو نشرات الأخبار الحية. للحصول على آخر الأخبار، يُفضّل الرجوع إلى مصادر إخبارية موثوقة مثل وكالات الأنباء الرسمية والقنوات المعروفة والمواقع الحكومية عند الحاجة. ومن منظور الأمن السيبراني، من المهم الانتباه إلى أن الأخبار العاجلة كثيرًا ما تُستغل لنشر روابط تصيد أو شائعات أو ملفات خبيثة، لذلك لا تضغط على روابط مجهولة تدّعي عرض خبر عاجل أو فيديو حصري.\n\n### أمثلة\n- تحقق من الخبر عبر أكثر من مصدر موثوق قبل مشاركته.\n- إذا وصلك رابط بعنوان مثير مثل: خبر عاجل جدًا أو شاهد قبل الحذف، فتأكد من مصدره قبل فتحه.\n- تابع الأخبار من مواقع معروفة أو تطبيقات رسمية بدل الاعتماد على رسائل مجهولة في وسائل التواصل.\n\n### نصائح عملية\n- استخدم مصادر موثوقة مثل وكالات الأنباء الكبرى أو المواقع الرسمية للجهات المعنية.\n- تجنب مشاركة الأخبار العاجلة قبل التأكد من صحتها، خاصة إذا كانت بلا مصدر واضح.\n- لا تدخل بياناتك أو تحمل ملفات من روابط مرتبطة بأخبار عاجلة إلا إذا كنت متأكدًا من الموقع.\n\n### الخلاصة\nلا أستطيع عرض أخبار اليوم مباشرة، لكن يمكنك متابعتها من مصادر موثوقة مع الحذر من الروابط والشائعات المرتبطة بالأخبار العاجلة."
+      },
+      {
+        "role": "user",
+        "content": "وصلني إيميل بعنوان \"PayPal Account Limited\"\nالمحتوى:\n\"Your PayPal account has been temporarily limited. Please verify your identity by logging in through this secure link: https://paypal-login-security-check.com\"\nالمرسل: support@paypaI.com\nهل الإيميل آمن؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالإيميل غير آمن ويبدو تصيدًا واضحًا يستهدف سرقة بيانات PayPal. الرابط لا يتبع النطاق الرسمي paypal.com بل يستخدم نطاقًا مزيفًا: paypal-login-security-check.com، كما أن عنوان المرسل support@paypaI.com يحتوي على خداع بصري حيث يبدو مثل paypal.com لكن الحرف الأخير في paypaI هو حرف I كبير وليس حرف l صغير.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل أي بيانات. افتح PayPal يدويًا من المتصفح بكتابة https://www.paypal.com أو من التطبيق الرسمي وتحقق من حالة الحساب. احذف الرسالة أو بلّغ عنها كتصيد، وإذا كنت قد أدخلت بياناتك بالفعل فغيّر كلمة المرور فورًا وفعّل المصادقة الثنائية وراجع العمليات الأخيرة."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة:\n\"تم ربح جائزة بقيمة 5000 شيكل. لاستلام الجائزة أرسل رقم الهوية، صورة البطاقة، ورمز التحقق الذي سيصلك الآن.\"\nهل هذا تصيد؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nنعم، هذه رسالة تصيد واحتيال واضحة. تدّعي أنك ربحت جائزة وتطلب معلومات حساسة جدًا مثل رقم الهوية وصورة البطاقة ورمز التحقق. رمز التحقق لا يجب مشاركته مع أي شخص لأنه قد يُستخدم للدخول إلى حساباتك أو تنفيذ عمليات باسمك.\n\nالنصيحة:\nلا ترسل أي معلومات ولا تشارك رمز التحقق أبدًا. احذف الرسالة أو بلّغ عنها كاحتيال. إذا كنت قد أرسلت الرمز أو صورة البطاقة بالفعل، تواصل فورًا مع البنك أو الجهة المعنية، غيّر كلمات المرور، فعّل المصادقة الثنائية، وراقب حساباتك لأي نشاط غير طبيعي."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة من متجر معروف:\n\"تم شحن طلبك رقم 12345، يمكنك متابعة الطلب من داخل التطبيق الرسمي.\"\nما فيها رابط خارجي. هل هذه آمنة؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 88%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة تبدو آمنة لأنها من متجر معروف، وتحتوي على إشعار شحن عادي برقم طلب، ولا تتضمن رابطًا خارجيًا أو طلبًا لإدخال بيانات شخصية أو دفع رسوم أو مشاركة رمز تحقق. كما أنها تطلب متابعة الطلب من داخل التطبيق الرسمي، وهذا سلوك آمن نسبيًا.\n\nالنصيحة:\nإذا كنت بالفعل قد طلبت من هذا المتجر، افتح التطبيق الرسمي مباشرة من هاتفك وتحقق من حالة الطلب من هناك. لا تضغط على أي روابط لو ظهرت لاحقًا في رسائل مشابهة، وتأكد من أن رقم الطلب يطابق طلبك."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة من البنك تقول إن حسابي مهدد بالإغلاق خلال ساعة، وفيها رابط لتحديث كلمة المرور.",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nهذه الرسالة تبدو تصيدًا واضحًا لأنها تستخدم أسلوب التخويف والاستعجال مثل تهديد إغلاق الحساب خلال ساعة، وتطلب تحديث كلمة المرور عبر رابط. البنوك عادة لا تطلب تحديث كلمات المرور من خلال روابط مرسلة في الرسائل، بل تطلب الدخول من التطبيق الرسمي أو الموقع الرسمي مباشرة.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل أي بيانات. افتح تطبيق البنك الرسمي أو اكتب عنوان موقع البنك يدويًا في المتصفح وتحقق من حالة الحساب. إذا كنت قد ضغطت على الرابط أو أدخلت كلمة المرور، غيّر كلمة المرور فورًا من القنوات الرسمية، تواصل مع البنك، وراقب حسابك لأي عمليات مشبوهة."
+      },
+      {
+        "role": "user",
+        "content": "طيب شو أعمل خطوة بخطوة؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## ماذا تفعل خطوة بخطوة عند وصول رسالة تصيد باسم البنك\n\nبما أن الرسالة تقول إن حسابك سيُغلق خلال ساعة وتطلب تحديث كلمة المرور عبر رابط، فتعامل معها كرسالة تصيد محتملة. الهدف غالبًا هو سرقة بيانات الدخول أو رمز التحقق أو معلومات البطاقة. اتبع الخطوات التالية: 1) لا تضغط على الرابط الموجود في الرسالة. 2) لا ترد على الرسالة ولا ترسل أي بيانات شخصية أو رموز تحقق. 3) افتح تطبيق البنك الرسمي من هاتفك مباشرة، أو اكتب عنوان موقع البنك يدويًا في المتصفح بدل استخدام الرابط. 4) تحقق من وجود أي تنبيه حقيقي داخل التطبيق أو الموقع الرسمي. 5) اتصل بخدمة عملاء البنك من الرقم الموجود على البطاقة البنكية أو الموقع الرسمي، وليس من رقم موجود داخل الرسالة. 6) احذف الرسالة أو بلّغ عنها كتصيد من داخل تطبيق الرسائل أو البريد. 7) إذا كنت ضغطت على الرابط فقط ولم تدخل بيانات، أغلق الصفحة وافحص الجهاز إذا لاحظت شيئًا غير طبيعي. 8) إذا أدخلت كلمة المرور، غيّرها فورًا من التطبيق أو الموقع الرسمي للبنك. 9) إذا أدخلت رمز تحقق أو بيانات بطاقة، اتصل بالبنك فورًا واطلب تأمين الحساب أو تجميد البطاقة إن لزم. 10) راقب العمليات البنكية خلال الأيام القادمة وفعّل إشعارات العمليات والمصادقة الثنائية إن كانت متاحة.\n\n### أمثلة\n- إذا وصلتك رسالة تقول: حسابك سيُغلق خلال ساعة، اضغط هنا لتحديث كلمة المرور، فهذا مؤشر قوي على التصيد.\n- إذا أردت التأكد، لا تستخدم الرابط؛ افتح تطبيق البنك الرسمي وتحقق من الإشعارات داخله.\n- إذا أدخلت بياناتك بالخطأ، غيّر كلمة المرور فورًا واتصل بالبنك من الرقم الرسمي.\n\n### نصائح عملية\n- لا تشارك رمز التحقق OTP مع أي شخص، حتى لو ادعى أنه من البنك.\n- احفظ رقم البنك الرسمي من البطاقة أو الموقع الرسمي واستخدمه عند الشك.\n- فعّل إشعارات العمليات البنكية حتى تعرف فورًا إذا حدثت أي عملية غير مصرح بها.\n\n### الخلاصة\nلا تضغط على الرابط. تحقق من تطبيق البنك الرسمي أو اتصل بالبنك من رقم موثوق. إذا أدخلت بياناتك، غيّر كلمة المرور واتصل بالبنك فورًا."
+      },
+      {
+        "role": "user",
+        "content": "إذا فتحت الرابط بالغلط بس ما كتبت معلومات، هل في خطر؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 75%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nفتح الرابط فقط بدون إدخال معلومات يقلل الخطر كثيرًا، لكنه ليس آمنًا تمامًا. قد يكون الرابط سجّل عنوان IP ونوع الجهاز والمتصفح، وقد يحاول تنزيل ملف أو استغلال ثغرة إذا كان الجهاز أو المتصفح غير محدّث. الخطر الأكبر يحدث إذا كتبت بيانات الدخول أو رمز تحقق أو معلومات بطاقة.\n\nالنصيحة:\nأغلق الصفحة فورًا ولا تدخل أي بيانات. إذا تم تنزيل أي ملف، لا تفتحه واحذفه. حدّث المتصفح ونظام الجهاز، وافحص الجهاز ببرنامج حماية موثوق إذا لاحظت شيئًا غير طبيعي. افتح تطبيق البنك الرسمي فقط وتحقق من الحساب. إذا لم تدخل أي معلومات ولم تشارك رمز تحقق، غالبًا لا تحتاج لتغيير كلمة المرور، لكن راقب الحساب. إذا كان المتصفح عبّأ كلمة المرور تلقائيًا أو أدخلت أي بيانات بالخطأ، غيّر كلمة المرور فورًا من التطبيق الرسمي واتصل بالبنك."
+      },
+      {
+        "role": "user",
+        "content": "إذا كتبت كلمة المرور، شو لازم أعمل فورًا؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: LLM_ANALYSIS\n\nالسبب:\nبما أنك كتبت كلمة المرور في رابط مشبوه يدّعي أنه من البنك، فهذا يعني أن بيانات الدخول قد تكون وصلت للمحتالين. يجب التعامل مع الأمر كاختراق محتمل والتحرك فورًا لتأمين الحساب قبل أن يتم استخدامه.\n\nالنصيحة:\nافعل التالي فورًا: 1) لا تُدخل أي رمز تحقق إذا وصلك ولا تشاركه مع أحد. 2) افتح تطبيق البنك الرسمي أو الموقع الرسمي بكتابة العنوان يدويًا، وليس من الرابط. 3) غيّر كلمة المرور فورًا من القناة الرسمية. 4) إذا كنت تستخدم نفس كلمة المرور في حسابات أخرى، غيّرها هناك أيضًا. 5) اتصل بالبنك فورًا من الرقم الموجود على البطاقة أو الموقع الرسمي واطلب تأمين الحساب ومراجعة أي عمليات مشبوهة. 6) فعّل المصادقة الثنائية والتنبيهات الفورية للعمليات. 7) افحص سجل العمليات والحوالات والمستفيدين الجدد. 8) إذا أدخلت أيضًا رمز تحقق أو بيانات بطاقة، اطلب من البنك تجميد البطاقة أو الحساب مؤقتًا إذا لزم."
+      },
+      {
+        "role": "user",
+        "content": "السلام عليكم",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## وعليكم السلام\n\nوعليكم السلام ورحمة الله وبركاته. أهلًا بك، كيف أقدر أساعدك؟ إذا كان عندك رسالة مشبوهة، رابط، بريد إلكتروني، أو موقف متعلق بأمان حساباتك، أرسل لي التفاصيل بدون مشاركة أي كلمات مرور أو رموز تحقق أو معلومات حساسة، وسأساعدك في تقييم الخطر والخطوات المناسبة.\n\n### أمثلة\n- وصلتني رسالة من البنك وفيها رابط، هل هي آمنة؟\n- فتحت رابطًا بالخطأ ولم أدخل بيانات، ماذا أفعل؟\n- أدخلت كلمة المرور في صفحة مشبوهة، ما الخطوات العاجلة؟\n\n### نصائح عملية\n- لا تشارك كلمة المرور أو رمز التحقق OTP مع أي شخص.\n- لا تضغط على الروابط المشبوهة، وافتح التطبيقات الرسمية مباشرة.\n- عند الشك، تواصل مع الجهة الرسمية من رقم أو موقع موثوق.\n\n### الخلاصة\nوعليكم السلام، أرسل سؤالك أو تفاصيل الرسالة المشبوهة وسأساعدك بأمان."
+      },
+      {
+        "role": "user",
+        "content": "ماذا يعني الامن السيبراني ؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "## ما هو الأمن السيبراني؟\n\nالأمن السيبراني هو مجموعة من الممارسات والتقنيات والإجراءات التي تهدف إلى حماية الأجهزة والشبكات والأنظمة والبيانات من الهجمات الرقمية أو الوصول غير المصرح به أو السرقة أو التخريب. يشمل ذلك حماية الهاتف والكمبيوتر، حسابات البريد والبنوك، مواقع الشركات، قواعد البيانات، والشبكات التي تربط الأجهزة ببعضها. الهدف الأساسي من الأمن السيبراني هو الحفاظ على سرية المعلومات، وضمان سلامتها من التعديل غير المصرح به، والتأكد من توفر الخدمات عند الحاجة. على سبيل المثال، عندما تستخدم كلمة مرور قوية، أو تفعّل المصادقة الثنائية، أو تتجنب الضغط على روابط مشبوهة، فأنت تطبق مبادئ من الأمن السيبراني. الأمن السيبراني مهم للأفراد والشركات والحكومات، لأن الهجمات الإلكترونية قد تؤدي إلى سرقة الأموال، تسريب البيانات الشخصية، تعطيل الخدمات، أو انتحال الهوية.\n\n### أمثلة\n- حماية حسابك البنكي من التصيد الإلكتروني عن طريق عدم الضغط على روابط مشبوهة وتسجيل الدخول من التطبيق الرسمي فقط.\n- استخدام برنامج حماية وتحديث نظام التشغيل والمتصفح لمنع استغلال الثغرات الأمنية.\n- تفعيل المصادقة الثنائية على البريد الإلكتروني حتى لا يتمكن المخترق من الدخول حتى لو عرف كلمة المرور.\n\n### نصائح عملية\n- استخدم كلمات مرور قوية ومختلفة لكل حساب، ويفضل استخدام مدير كلمات مرور موثوق.\n- فعّل المصادقة الثنائية للحسابات المهمة مثل البريد والبنك ووسائل التواصل الاجتماعي.\n- لا تفتح الروابط أو المرفقات المشبوهة، وتأكد دائمًا من مصدر الرسائل قبل إدخال أي بيانات.\n\n### الخلاصة\nالأمن السيبراني يعني حماية الأجهزة والحسابات والبيانات من الاختراق والسرقة والهجمات الإلكترونية باستخدام إجراءات مثل كلمات المرور القوية، التحديثات، والحذر من الروابط المشبوهة."
+      },
+      {
+        "role": "user",
+        "content": "شخص على واتساب يقول إنه من شركة التوصيل:\n\"عندك طرد موقوف في الجمارك، ادفع 7 شيكل رسوم توصيل من الرابط خلال ساعتين وإلا سيتم إرجاع الطرد.\"\nالرابط: http://delivery-fees-fast.net\nهل أفتح الرابط؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: LLM_ANALYSIS\n\nالسبب:\nلا تفتح الرابط. الرسالة تحمل مؤشرات تصيد واضحة: تدّعي وجود طرد موقوف وتطلب دفع مبلغ صغير بسرعة عبر رابط غير رسمي، وهذا أسلوب شائع لسرقة بيانات البطاقة أو معلوماتك الشخصية. الرابط يستخدم HTTP غير آمن واسم نطاق عام لا يبدو تابعًا لشركة توصيل معروفة أو جهة جمارك رسمية.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل بيانات بطاقة أو رمز تحقق. إذا كنت تنتظر طردًا فعلًا، افتح موقع أو تطبيق شركة التوصيل الرسمي بنفسك، أو تواصل معهم من رقم موجود على الموقع الرسمي. يمكنك أيضًا التحقق من رقم التتبع إن كان لديك. احظر المرسل وبلّغ عن الرسالة كاحتيال. إذا كنت قد أدخلت بيانات البطاقة أو رمز تحقق، اتصل بالبنك فورًا لإيقاف البطاقة أو مراقبة العمليات."
+      },
+      {
+        "role": "user",
+        "content": "شخص بعتلي:\n\"أنا صديق أخوك، محتاج تحويل بسيط بسرعة وبردلك إياه بكرة.\"\nما طلب رابط ولا كلمة مرور، بس في استعجال. كيف أصنفه؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 75%\n\nMode: LLM_ANALYSIS\n\nالسبب:\nالرسالة مشبوهة لأنها تعتمد على الاستعجال وطلب تحويل مالي من شخص غير موثّق الهوية، حتى لو لم يوجد رابط أو طلب كلمة مرور. هذا أسلوب شائع في الاحتيال الاجتماعي: يدّعي المرسل أنه يعرف أحد أفراد العائلة ويطلب مبلغًا بسرعة قبل أن تتحقق من القصة.\n\nالنصيحة:\nلا تحوّل أي مبلغ قبل التحقق. اتصل بأخيك مباشرة من رقمه المعروف واسأله إن كان يعرف الشخص وطلب منه التواصل معك. اطلب من المرسل اسمه الكامل ومكالمة صوتية أو فيديو، ولا تعتمد على الرسائل فقط. إذا رفض التحقق أو زاد الضغط والاستعجال، اعتبرها محاولة احتيال واحظر الرقم وبلّغ عنه."
+      },
+      {
+        "role": "user",
+        "content": "Your account will be suspended today. Click this link to verify your password.",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nهذه رسالة تصيّد واضحة لأنها تستخدم تهديدًا عاجلًا بإيقاف الحساب اليوم لدفعك للضغط على رابط وإدخال كلمة المرور. الجهات الرسمية لا تطلب عادةً التحقق من كلمة المرور عبر رابط في رسالة، خصوصًا مع أسلوب التخويف والاستعجال.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل كلمة المرور. افتح الموقع أو التطبيق الرسمي للحساب بكتابة العنوان يدويًا أو من التطبيق المعروف، وتحقق من وجود أي تنبيه داخل الحساب. إذا كنت قد أدخلت كلمة المرور، غيّرها فورًا من الموقع الرسمي، وفعّل المصادقة الثنائية، وراجع نشاط الحساب، ولا تشارك أي رمز تحقق."
+      },
+      {
+        "role": "user",
+        "content": "وصلني إيميل من الجامعة من الدومين الرسمي:\n\"يرجى حضور ورشة الأمن السيبراني يوم الثلاثاء الساعة 10 صباحًا. لا يوجد روابط ولا طلب بيانات.\"\nهل هذا مشبوه؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 90%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة تبدو آمنة لأنها واردة من دومين الجامعة الرسمي، ومحتواها مجرد إعلان عن ورشة بوقت محدد، ولا تحتوي على روابط أو مرفقات أو طلب كلمات مرور أو بيانات شخصية أو دفع مالي. هذا النوع من الرسائل شائع في المراسلات الجامعية.\n\nالنصيحة:\nيمكنك التعامل معها كرسالة عادية، لكن تأكد سريعًا من أن عنوان المرسل مكتوب بشكل صحيح وليس مشابهًا للدومين الرسمي بحروف مختلفة. إذا أردت التأكد أكثر، راجع تقويم الجامعة أو موقعها الرسمي أو تواصل مع القسم المنظم من قناة معروفة."
+      },
+      {
+        "role": "user",
+        "content": "وصلني إيميل من الجامعة من الدومين الرسمي:\n\"يرجى حضور ورشة الأمن السيبراني يوم الثلاثاء الساعة 10 صباحًا. لا يوجد روابط ولا طلب بيانات.\"\nهل هذا مشبوه؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 90%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة تبدو آمنة لأنها من دومين الجامعة الرسمي، ومحتواها مجرد دعوة لحضور ورشة بوقت محدد، ولا تحتوي على روابط أو مرفقات أو طلب كلمة مرور أو بيانات شخصية أو دفع مالي. لا توجد مؤشرات تصيد واضحة في النص المذكور.\n\nالنصيحة:\nيمكنك التعامل معها كرسالة عادية. مع ذلك، تأكد أن عنوان البريد فعلاً من دومين الجامعة الرسمي وليس شبيهًا به بحروف مختلفة، وإذا أردت تأكيدًا إضافيًا راجع موقع الجامعة أو تقويم الفعاليات أو تواصل مع الجهة المنظمة عبر قناة رسمية."
+      },
+      {
+        "role": "user",
+        "content": "شخص على واتساب يقول إنه من شركة التوصيل:\n\"عندك طرد موقوف في الجمارك، ادفع 7 شيكل رسوم توصيل من الرابط خلال ساعتين وإلا سيتم إرجاع الطرد.\"\nالرابط: http://delivery-fees-fast.net\nهل أفتح الرابط؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: LLM_ANALYSIS\n\nالسبب:\nلا تفتح الرابط. الرسالة تحمل مؤشرات تصيّد واحتيال واضحة: تدّعي وجود طرد موقوف في الجمارك، تطلب دفع مبلغ صغير بسرعة، وتستخدم ضغطًا زمنيًا خلال ساعتين. هذا أسلوب شائع لسرقة بيانات البطاقة أو رموز التحقق. الرابط أيضًا غير رسمي ويستخدم HTTP غير آمن، ولا يبدو تابعًا لشركة توصيل أو جهة جمارك معروفة.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل أي بيانات شخصية أو بيانات بطاقة. إذا كنت تنتظر طردًا، تحقق من خلال موقع أو تطبيق شركة التوصيل الرسمي بكتابة العنوان بنفسك، أو اتصل بخدمة العملاء من رقم رسمي. إذا كان لديك رقم تتبع، استخدمه في الموقع الرسمي فقط. احظر المرسل وبلّغ عن الرسالة كاحتيال. إذا كنت قد أدخلت بيانات البطاقة أو رمز تحقق، تواصل مع البنك فورًا لإيقاف البطاقة ومراجعة العمليات."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة:\n\"تم تسجيل دخول جديد إلى حسابك. إذا لم تكن أنت، تواصل مع الدعم.\"\nما فيها رابط، بس المرسل مش واضح. هل أعتبرها احتيال؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 75%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة ليست احتيالًا مؤكدًا لأنها لا تحتوي على رابط ولا تطلب كلمة مرور أو رمز تحقق، وقد تكون تنبيهًا أمنيًا حقيقيًا. لكنها مشبوهة لأن المرسل غير واضح والرسالة تحاول دفعك للتواصل مع \"الدعم\" دون تحديد جهة موثوقة. قد تكون مقدمة لاحتيال لاحق عبر الرد أو الاتصال برقم مزيف.\n\nالنصيحة:\nلا ترد على الرسالة ولا تستخدم أي رقم أو جهة دعم مذكورة فيها إذا وُجدت. افتح التطبيق أو الموقع الرسمي للحساب المعني بنفسك، وليس من الرسالة، وتحقق من سجل تسجيلات الدخول أو التنبيهات الأمنية. إذا وجدت نشاطًا غريبًا، غيّر كلمة المرور من الموقع الرسمي وفعّل المصادقة الثنائية. إذا لم تعرف أي حساب تقصده الرسالة، تجاهلها أو احظر المرسل."
+      },
+      {
+        "role": "user",
+        "content": "وصلني إيميل من الجامعة من الدومين الرسمي:\n\"يرجى حضور ورشة الأمن السيبراني يوم الثلاثاء الساعة 10 صباحًا. لا يوجد روابط ولا طلب بيانات.\"\nهل هذا مشبوه؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 90%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة تبدو آمنة لأنها واردة من دومين الجامعة الرسمي، ومحتواها مجرد دعوة لحضور ورشة بوقت وتاريخ محددين، ولا تحتوي على روابط أو مرفقات أو طلب كلمة مرور أو بيانات شخصية أو دفع مالي. لا توجد مؤشرات تصيّد واضحة في النص المذكور.\n\nالنصيحة:\nيمكنك التعامل معها كرسالة عادية. مع ذلك، تأكد أن عنوان البريد فعلاً من دومين الجامعة الرسمي وليس دومينًا مشابهًا بحروف مختلفة، وإذا أردت تأكيدًا إضافيًا راجع موقع الجامعة أو تقويم الفعاليات أو تواصل مع الجهة المنظمة عبر قناة رسمية."
+      }
+    ]
+  },
+  {
+    "id": "d8f83129-3afd-49d0-82ae-116a0647b5d3",
+    "title": "افحص الصورة التالية",
+    "messages": [
+      {
+        "role": "user",
+        "content": "افحص الصورة التالية",
+        "files": [
+          "Screen Shot 2026-03-10 at 9.16.03 PM.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: Screen Shot 2026-03-10 at 9.16.03 PM.png\nالنتيجة: Safe — 90%\n\nالسبب:\nالصورة تعرض رسالة عادية داخل دردشة اجتماع تتضمن مصطلحًا تقنيًا: RAG وشرحًا له كـ Retrieval Augmented Generation. لا توجد روابط، أو طلب كلمات مرور، أو رموز تحقق، أو معلومات بنكية، أو تهديد بإيقاف حساب، أو أي تعليمات تبدو احتيالية.\n\nالنصيحة:\nلا يوجد مؤشر تصيد ظاهر في الصورة. يمكن التعامل معها كرسالة تعليمية أو نقاش تقني عادي، مع الاستمرار عمومًا في تجنب فتح الروابط أو مشاركة بيانات حساسة إذا ظهرت لاحقًا في المحادثة."
+      },
+      {
+        "role": "user",
+        "content": "ماذا يعني الاختراق الامني ؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 90%\n\nMode: LLM_ANALYSIS\n\nالسبب:\nالسؤال تعليمي عام ولا يحتوي على رابط أو طلب بيانات حساسة أو محاولة تصيد. المقصود بالاختراق الأمني هو حدوث وصول غير مصرح به إلى نظام أو حساب أو شبكة أو بيانات، وقد يؤدي ذلك إلى سرقة معلومات أو تعديلها أو تعطيل الخدمة.\n\nالنصيحة:\nإذا كنت تقصد حادثة معينة، لا تضغط على روابط مشبوهة ولا تشارك كلمات المرور أو رموز التحقق. غيّر كلمة المرور، فعّل المصادقة الثنائية، وافحص الأجهزة والحسابات إذا كان هناك شك بحدوث اختراق."
+      },
+      {
+        "role": "user",
+        "content": "ماذا يعني الاختراق الامني ؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "ما معنى الاختراق الأمني؟\n\nالاختراق الأمني هو وصول غير مصرح به إلى حساب أو جهاز أو نظام أو بيانات، وقد يؤدي إلى سرقة معلومات أو تعطيل خدمات أو إساءة استخدام الحسابات."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة SMS من رقم غريب تقول:\n\"عميلنا العزيز، تم تعليق حسابك البنكي بسبب نشاط مشبوه. لتجنب إغلاق الحساب خلال 24 ساعة، اضغط الرابط التالي وحدث بياناتك: http://bank-secure-login-verify.xyz\"\nهل هذه احتيال؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nنعم، هذه الرسالة تبدو احتيالية بشكل واضح. الرسالة تستخدم أسلوب التخويف والاستعجال بقولها إن الحساب البنكي سيتم إغلاقه خلال 24 ساعة، وتطلب الضغط على رابط لتحديث البيانات. الرابط غير رسمي ومريب وينتهي بنطاق .xyz ولا يبدو تابعًا لأي بنك معروف. البنوك عادة لا تطلب تحديث البيانات الحساسة عبر روابط SMS من أرقام غريبة.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل أي بيانات بنكية أو كلمة مرور أو رمز تحقق. احذف الرسالة أو بلّغ عنها كرسالة احتيالية. إذا كنت قلقًا على حسابك، افتح تطبيق البنك الرسمي أو اتصل برقم خدمة العملاء الموجود على البطاقة البنكية أو الموقع الرسمي للبنك، وليس من خلال الرابط أو الرقم الموجود في الرسالة."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة من رقم غير معروف:\n\"مرحبا، أنا من شركة التوظيف. شفنا CV تبعك ومناسب لوظيفة عن بعد براتب عالي. ابعتلنا معلوماتك الشخصية وصورة الهوية.\"\nما فيها رابط، بس طلبوا معلومات. هل هي خطيرة؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 90%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nنعم، الرسالة خطيرة وتُعتبر غالبًا محاولة احتيال أو تصيد هوية. عدم وجود رابط لا يعني أنها آمنة؛ طلب المعلومات الشخصية وصورة الهوية من رقم غير معروف بحجة وظيفة عن بعد وراتب عالٍ هو مؤشر قوي على محاولة جمع بياناتك لاستخدامها في انتحال الهوية أو فتح حسابات باسمك أو تنفيذ عمليات احتيالية.\n\nالنصيحة:\nلا ترسل صورة الهوية أو أي معلومات شخصية. اطلب منهم اسم الشركة، الموقع الرسمي، البريد الإلكتروني بنطاق الشركة، ووصف الوظيفة الرسمي، ثم تحقق من الشركة عبر مصادر مستقلة. إذا كنت مهتمًا، تواصل فقط عبر قنوات رسمية منشورة على موقع الشركة، وليس عبر الرقم المجهول. وإذا كنت قد أرسلت بياناتك بالفعل، راقب حساباتك، وبلّغ الجهة المختصة، وفكّر في اتخاذ إجراءات حماية الهوية حسب بلدك."
+      },
+      {
+        "role": "user",
+        "content": "شخص بعتلي:\n\"أنا صديق أخوك، محتاج تحويل بسيط بسرعة وبردلك إياه بكرة.\"\nما طلب رابط ولا كلمة مرور، بس في استعجال. كيف أصنفه؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 75%\n\nMode: LLM_ANALYSIS\n\nالسبب:\nالرسالة مشبوهة لأنها تعتمد على الاستعجال وادعاء علاقة غير مباشرة بك شخصيًا: \"صديق أخوك\" مع طلب تحويل مالي سريع. حتى بدون رابط أو طلب كلمة مرور، هذا أسلوب شائع في الاحتيال الاجتماعي لانتحال صفة شخص قريب أو مرتبط بالعائلة بهدف الحصول على المال بسرعة قبل أن تتحقق.\n\nالنصيحة:\nلا تحول أي مبلغ قبل التحقق. اتصل بأخيك مباشرة من رقمه المعروف واسأله إن كان يعرف هذا الشخص فعلًا. اطلب من المرسل إثباتًا واضحًا، لكن لا تعتمد على الرسائل فقط. إذا لم تتمكن من التحقق عبر مصدر مستقل، اعتبرها محاولة احتيال ولا ترسل المال."
+      },
+      {
+        "role": "user",
+        "content": "وصلني إشعار من تطبيق البنك الرسمي داخل التطبيق نفسه:\n\"لا تشارك كلمة المرور أو OTP مع أي شخص، حتى موظفي البنك.\"\nهل هذا آمن؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 90%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nنعم، يبدو آمنًا إذا كان الإشعار صادرًا فعلًا من داخل تطبيق البنك الرسمي. محتوى الرسالة توعوي ويحذّرك من مشاركة كلمة المرور أو رمز التحقق OTP، ولا يطلب منك إدخال بيانات أو الضغط على رابط أو تحويل أموال. هذا النوع من التنبيهات تستخدمه البنوك عادة لحماية العملاء من الاحتيال.\n\nالنصيحة:\nلا تشارك كلمة المرور أو رمز OTP مع أي شخص مهما ادّعى أنه موظف بنك. إذا وصلك لاحقًا اتصال أو رسالة تطلب هذه البيانات، اعتبرها احتيالًا. تأكد دائمًا أنك تستخدم التطبيق الرسمي المُثبت من متجر التطبيقات، ولا تدخل بياناتك عبر روابط خارجية."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة من البنك تقول إن حسابي مهدد بالإغلاق خلال ساعة، وفيها رابط لتحديث كلمة المرور.",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nهذه الرسالة تبدو محاولة تصيد واضحة. استخدام التهديد بإغلاق الحساب خلال ساعة يهدف إلى خلق استعجال وخوف لدفعك للضغط على الرابط بسرعة. كذلك طلب تحديث كلمة المرور عبر رابط في رسالة هو مؤشر خطير، لأن البنوك لا تطلب عادة تغيير أو إدخال كلمات المرور عبر روابط SMS أو رسائل مفاجئة.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل كلمة المرور أو أي رمز تحقق. افتح تطبيق البنك الرسمي بنفسك أو اكتب عنوان موقع البنك يدويًا في المتصفح، وتحقق من حالة الحساب. يمكنك أيضًا الاتصال برقم خدمة العملاء الموجود على البطاقة البنكية أو الموقع الرسمي، وليس أي رقم داخل الرسالة. إذا كنت ضغطت على الرابط أو أدخلت بياناتك، غيّر كلمة المرور فورًا من القناة الرسمية واتصل بالبنك لتجميد أو مراقبة الحساب."
+      },
+      {
+        "role": "user",
+        "content": "طيب شو اعمل الحين ؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "ماذا تفعل الآن عند استلام رسالة بنكية مشبوهة؟\n\nلا تضغط على الرابط. إذا لم تدخل بياناتك فاحذف الرسالة وبلّغ عنها. إذا أدخلت أي معلومات، اتصل بالبنك فورًا وغيّر كلمة المرور من التطبيق الرسمي."
+      },
+      {
+        "role": "user",
+        "content": "طيب لوضغطت ع الرابط شو بصير ؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: LLM_ANALYSIS\n\nالسبب:\nالضغط على رابط رسالة بنكية مشبوهة قد يفتح صفحة مزيفة تشبه موقع البنك لسرقة بياناتك مثل اسم المستخدم، كلمة المرور، رقم البطاقة، أو رمز OTP. أحيانًا مجرد فتح الرابط لا يسبب ضررًا كبيرًا إذا لم تُدخل أي معلومات ولم تُحمّل شيئًا، لكن يبقى خطرًا لأنه قد يجمع معلومات عن جهازك أو يحاول خداعك بخطوات لاحقة.\n\nالنصيحة:\nإذا ضغطت الرابط فقط ولم تُدخل بيانات ولم تحمّل شيئًا: أغلق الصفحة فورًا ولا تكمل. امسح الرسالة، ولا تستخدم الرابط مرة أخرى. إذا أدخلت كلمة المرور أو OTP أو بيانات البطاقة: اتصل بالبنك فورًا من الرقم الرسمي، غيّر كلمة المرور من تطبيق البنك الرسمي، اطلب إيقاف البطاقة أو مراقبة الحساب، وفعّل المصادقة الثنائية إن وجدت. إذا حمّلت تطبيقًا أو ملفًا من الرابط، احذفه فورًا وافحص الجهاز ببرنامج حماية موثوق، ولا تدخل لحسابك البنكي من نفس الجهاز قبل التأكد من سلامته."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "The Support Training.pdf"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: The Support Training.pdf\nالنتيجة: Safe — 90%\n\nالسبب:\nالمحتوى عبارة عن جدول تدريبي لدورة دعم يتضمن تواريخ ومحاضرين وموضوعات مثل المحاسبة، المبيعات، المخزون، الموارد البشرية، وExcel. لا توجد أي طلبات للحصول على كلمات مرور أو رموز تحقق أو بيانات بنكية، ولا توجد روابط أو تعليمات لتسجيل الدخول أو تنزيل ملفات مشبوهة.\n\nالنصيحة:\nيمكن التعامل مع الملف كجدول تدريبي عادي. إذا وصل الملف من مصدر غير معروف، يُفضّل فقط التأكد من هوية المرسل قبل فتح أي مرفقات أخرى مرتبطة به."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "test.docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: test.docx\nالنتيجة: Phishing — 92%\n\nالسبب:\nالمحتوى يحتوي على مؤشرات تصيد قوية مثل طلب كلمة مرور أو رمز تحقق أو بيانات مالية مع وجود رابط.\n\nالنصيحة:\nلا تفتح الرابط ولا تدخل أي بيانات. استخدم الموقع أو التطبيق الرسمي فقط."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "Screen Shot 2026-04-25 at 9.23.54 PM.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: Screen Shot 2026-04-25 at 9.23.54 PM.png\nالنتيجة: Safe — 90%\n\nالسبب:\nالمحتوى الظاهر عبارة عن شريحة تعليمية تشرح الانحدار الخطي وطريقة المربعات الصغرى مع رسم توضيحي. لا توجد طلبات لإدخال كلمات مرور أو رموز تحقق أو بيانات مالية، ولا توجد روابط أو تعليمات مشبوهة.\n\nالنصيحة:\nلا يلزم اتخاذ إجراء أمني خاص. يمكن التعامل مع الملف كمحتوى تعليمي عادي طالما لم يكن مرفقًا بروابط أو ملفات تنفيذية غير موثوقة."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "Screen Shot 2026-03-10 at 9.16.03 PM.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: Screen Shot 2026-03-10 at 9.16.03 PM.png\nالنتيجة: Safe — 90%\n\nالسبب:\nالمحتوى الظاهر عبارة عن رسالة دردشة عادية في اجتماع تشرح اختصار RAG بأنه Retrieval Augmented Generation. لا توجد روابط، ولا طلب كلمات مرور أو رموز تحقق أو معلومات بنكية، ولا تهديد بإيقاف حساب أو تعليمات لتنزيل ملفات مشبوهة.\n\nالنصيحة:\nلا يلزم اتخاذ إجراء أمني خاص. استمر بالحذر العام ولا تضغط على روابط أو تفتح ملفات غير موثوقة إذا ظهرت لاحقاً في المحادثة."
+      }
+    ]
+  },
+  {
+    "id": "9f473645-3372-4958-b3bf-ba2db2dc74ad",
+    "title": "افحص الملف التالي",
+    "messages": [
+      {
+        "role": "user",
+        "content": "افحص الملف التالي",
+        "files": [
+          "Homework IDS.docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: Homework IDS.docx\nالنتيجة: Needs Review — 30%\n\nالسبب:\nلم أستطع استخراج أو تحليل محتوى واضح من الملف Homework IDS.docx. هذه حالة تقنية نادرة وليست حكمًا بأنه مشبوه.\n\nالنصيحة:\nجرّب رفع الملف كصورة واضحة أو PDF بجودة أعلى. إذا كان الملف مهمًا، افحصه أيضًا يدويًا أو ببرنامج حماية."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "Cover Letter.pdf"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: Cover Letter.pdf\nالنتيجة: Needs Review — 30%\n\nالسبب:\nلم أستطع استخراج أو تحليل محتوى واضح من الملف Cover Letter.pdf. هذه حالة تقنية نادرة وليست حكمًا بأنه مشبوه.\n\nالنصيحة:\nجرّب رفع الملف كصورة واضحة أو PDF بجودة أعلى. إذا كان الملف مهمًا، افحصه أيضًا يدويًا أو ببرنامج حماية."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "Cover Letter.pdf"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: Cover Letter.pdf\nالنتيجة: Safe — 90%\n\nالسبب:\nالنص عبارة عن خطاب تقديم لوظيفة في مجال تكنولوجيا المعلومات وأمن الشبكات، ويتضمن معلومات شخصية ومؤهلات وطلب مقابلة فقط. لا توجد طلبات للحصول على كلمات مرور أو رموز تحقق أو معلومات بنكية، ولا توجد روابط مشبوهة أو تهديدات عاجلة أو تعليمات تشبه البرمجيات الخبيثة.\n\nالنصيحة:\nيمكن التعامل مع الملف كخطاب تقديم عادي. يُنصح فقط بمراعاة حماية البيانات الشخصية مثل رقم الهاتف والبريد الإلكتروني عند مشاركة الملف مع جهات غير موثوقة."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "test.docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: test.docx\nالنتيجة: Phishing — 92%\n\nالسبب:\nالمحتوى يحتوي على مؤشرات تصيد قوية مثل طلب كلمة مرور أو رمز تحقق أو بيانات مالية مع وجود رابط.\n\nالنصيحة:\nلا تفتح الرابط ولا تدخل أي بيانات. استخدم الموقع أو التطبيق الرسمي فقط."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة:\n\"تم ربح جائزة بقيمة 5000 شيكل. لاستلام الجائزة أرسل رقم الهوية، صورة البطاقة، ورمز التحقق الذي سيصلك الآن.\"\nهل هذا تصيد؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nنعم، هذه رسالة تصيد واضحة جدًا. تدّعي الفوز بجائزة مالية وتطلب معلومات حساسة مثل رقم الهوية وصورة البطاقة، والأخطر أنها تطلب رمز التحقق الذي سيصلك. رموز التحقق لا يجب مشاركتها مع أي شخص لأنها قد تُستخدم لاختراق حساباتك أو تنفيذ عمليات باسمك.\n\nالنصيحة:\nلا ترسل أي معلومات ولا تشارك رمز التحقق أبدًا. احذف الرسالة واحظر المرسل. إذا كنت أرسلت الرمز أو صورة الهوية بالفعل، غيّر كلمات مرور حساباتك فورًا، فعّل المصادقة الثنائية، تواصل مع البنك أو مزود الخدمة، وبلّغ الجهات المختصة."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة:\n\"تم تسجيل دخول جديد إلى حسابك. إذا لم تكن أنت، تواصل مع الدعم.\"\nما فيها رابط، بس المرسل مش واضح. هل أعتبرها احتيال؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 75%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة قد تكون تنبيهًا أمنيًا حقيقيًا، لكنها تبقى مشبوهة لأن المرسل غير واضح ولأنها تطلب التواصل مع الدعم بدون توضيح الجهة أو الحساب المقصود. عدم وجود رابط يقلل خطورة التصيد المباشر، لكن المحتالين قد يستخدمون هذا الأسلوب لدفعك للرد أو الاتصال برقم مزيف ثم طلب بياناتك.\n\nالنصيحة:\nلا ترد على الرسالة ولا تتواصل عبر أي رقم أو وسيلة مذكورة فيها إن وُجدت. افتح التطبيق أو الموقع الرسمي للخدمة التي تشك بوجود تسجيل دخول عليها، وتحقق من سجل النشاط أو الأجهزة المتصلة. إذا وجدت نشاطًا غير معروف، غيّر كلمة المرور فورًا وفعّل المصادقة الثنائية. لا تشارك رموز التحقق أو كلمات المرور مع أي شخص."
+      },
+      {
+        "role": "user",
+        "content": "وصلني إيميل من الجامعة من الدومين الرسمي:\n\"يرجى حضور ورشة الأمن السيبراني يوم الثلاثاء الساعة 10 صباحًا. لا يوجد روابط ولا طلب بيانات.\"\nهل هذا مشبوه؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 90%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة تبدو آمنة لأنها واردة من دومين الجامعة الرسمي، ومحتواها مجرد إعلان عن ورشة وموعد حضور. لا تحتوي على روابط، ولا مرفقات، ولا طلب لكلمات مرور أو رموز تحقق أو بيانات شخصية أو مالية، ولا يوجد ضغط أو تهديد.\n\nالنصيحة:\nيمكنك التعامل معها كإعلان جامعي عادي. إذا أردت التأكد أكثر، تحقق من تقويم الجامعة أو موقعها الرسمي أو اسأل القسم المنظم، ولا تشارك أي بيانات حساسة إذا وصلتك لاحقًا رسالة متابعة تطلب ذلك."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة من البنك تقول إن حسابي مهدد بالإغلاق خلال ساعة، وفيها رابط لتحديث كلمة المرور.",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nهذه رسالة تصيد واضحة جدًا لأنها تستخدم أسلوب التخويف والاستعجال بقولها إن الحساب سيُغلق خلال ساعة، وتطلب الضغط على رابط لتحديث كلمة المرور. البنوك لا تطلب عادة تحديث كلمة المرور عبر رابط في رسالة، ولا تضغط العملاء بمهلة قصيرة بهذه الطريقة. الرابط قد يكون صفحة مزيفة لسرقة بيانات الدخول أو رموز التحقق.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل كلمة المرور أو أي رمز تحقق. افتح تطبيق البنك الرسمي أو اكتب عنوان موقع البنك يدويًا في المتصفح، وتحقق من وجود أي تنبيه داخل الحساب. يمكنك أيضًا الاتصال برقم البنك الموجود على البطاقة أو الموقع الرسمي فقط. إذا كنت ضغطت على الرابط أو أدخلت بياناتك، غيّر كلمة المرور فورًا، تواصل مع البنك، وراقب الحساب لأي عمليات غير معروفة."
+      },
+      {
+        "role": "user",
+        "content": "طيب شو أعمل خطوة بخطوة؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة تُعتبر تصيدًا لأنها تدّعي أن حسابك البنكي مهدد بالإغلاق خلال ساعة وتطلب تحديث كلمة المرور عبر رابط. هذا أسلوب شائع للضغط عليك حتى تتصرف بسرعة وتدخل بياناتك في صفحة مزيفة.\n\nالنصيحة:\nاتبع هذه الخطوات: 1) لا تضغط على الرابط ولا تفتحه. 2) لا تدخل كلمة المرور أو رقم البطاقة أو رمز التحقق في أي صفحة وصلتك من الرسالة. 3) افتح تطبيق البنك الرسمي من هاتفك أو اكتب عنوان موقع البنك يدويًا في المتصفح. 4) تحقق من وجود أي تنبيه داخل التطبيق أو الحساب. 5) اتصل بالبنك فقط من الرقم الموجود على البطاقة البنكية أو الموقع الرسمي، وليس من الرسالة. 6) احذف الرسالة أو بلّغ عنها كتصيد واحظر المرسل. 7) إذا كنت ضغطت على الرابط فقط، لا تكمل إدخال أي بيانات واغلق الصفحة. 8) إذا أدخلت كلمة المرور أو رمز تحقق، غيّر كلمة المرور فورًا من التطبيق الرسمي، تواصل مع البنك لإيقاف أي عملية مشبوهة، وراقب الحساب والبطاقات."
+      },
+      {
+        "role": "user",
+        "content": "إذا فتحت الرابط بالغلط بس ما كتبت معلومات، هل في خطر؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 75%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nإذا فتحت الرابط فقط ولم تكتب أي معلومات ولم تحمّل ملفات ولم تمنح أذونات، فالخطر غالبًا أقل بكثير من إدخال كلمة المرور أو رمز التحقق. لكن يبقى هناك احتمال تتبّع فتح الرابط، معرفة عنوان IP ونوع الجهاز، أو محاولة تنزيل ملف/استغلال المتصفح إذا كان الجهاز غير محدّث. لذلك لا نعتبره آمنًا تمامًا، خصوصًا لأن الرسالة الأصلية تبدو تصيدًا.\n\nالنصيحة:\nأغلق الصفحة فورًا ولا تدخل أي بيانات. امسح سجل المتصفح وبيانات الموقع إن أمكن. لا تفتح أي ملف تم تنزيله، واحذفه فورًا إذا نزل شيء. حدّث المتصفح ونظام التشغيل، وافحص الجهاز ببرنامج حماية موثوق. ادخل إلى حساب البنك فقط من التطبيق الرسمي أو بكتابة العنوان يدويًا، وراقب الحساب. إذا لاحظت عمليات غريبة أو كنت أدخلت كلمة مرور أو رمز تحقق لاحقًا، تواصل مع البنك فورًا وغيّر كلمة المرور من القنوات الرسمية."
+      },
+      {
+        "role": "user",
+        "content": "إذا كتبت كلمة المرور، شو لازم أعمل فورًا؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: LLM_ANALYSIS\n\nالسبب:\nبما أنك كتبت كلمة المرور في رابط وصل ضمن رسالة تدّعي أنها من البنك، فهناك احتمال كبير أن تكون بياناتك سُرقت عبر صفحة تصيد مزيفة. يجب التعامل مع الموقف كحالة طارئة لحماية الحساب ومنع أي دخول أو تحويلات غير مصرح بها.\n\nالنصيحة:\nتصرف فورًا بهذه الخطوات: 1) لا تستخدم الرابط مرة أخرى وأغلق الصفحة. 2) افتح تطبيق البنك الرسمي أو اكتب موقع البنك يدويًا، وغيّر كلمة المرور فورًا. 3) إذا تستخدم نفس كلمة المرور في أي حساب آخر، غيّرها هناك أيضًا. 4) اتصل بالبنك فورًا من الرقم الموجود على البطاقة أو الموقع الرسمي واطلب تأمين الحساب ومراجعة أي عمليات مشبوهة. 5) إذا أدخلت رمز تحقق أو OTP أيضًا، أخبر البنك بذلك فورًا لأنه أخطر. 6) فعّل المصادقة الثنائية إن كانت متاحة. 7) راقب الحساب والبطاقات لأي عمليات غير معروفة. 8) احذف الرسالة وبلّغ عنها كتصيد. 9) افحص جهازك وحدّث المتصفح والنظام، خصوصًا إذا تم تنزيل أي ملف أو طلبت الصفحة أذونات."
+      },
+      {
+        "role": "user",
+        "content": "هل هذه الصورة مشبوه ام لا ؟",
+        "files": [
+          "Screen Shot 2026-03-10 at 9.16.03 PM.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: Screen Shot 2026-03-10 at 9.16.03 PM.png\nالنتيجة: Safe — 90%\n\nالسبب:\nالصورة تعرض رسالة عادية داخل دردشة اجتماع تحتوي على اختصار RAG وعبارة Retrieval Augmented Generation فقط. لا توجد روابط، ولا طلب لكلمة مرور أو رمز تحقق، ولا معلومات بنكية، ولا تهديد أو استعجال متعلق بالحساب.\n\nالنصيحة:\nلا يوجد ما يشير إلى تصيد في المحتوى الظاهر. يمكن التعامل معها كرسالة عادية، مع الاستمرار بتجنب فتح أي روابط أو ملفات غير موثوقة إن ظهرت لاحقاً."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "LLMProject .docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: LLMProject .docx\nالنتيجة: Safe — 90%\n\nالسبب:\nالمحتوى عبارة عن ملاحظات/شرح لمشروع جامعي أو تقني حول بناء نظام RAG وتقييم الهلوسة باستخدام أدوات LLMOps مثل LangSmith وRAGAS وPhoenix. لا توجد طلبات للحصول على كلمات مرور أو رموز تحقق أو بيانات بنكية، ولا توجد روابط مشبوهة أو تعليمات لتشغيل برمجيات خبيثة.\n\nالنصيحة:\nيمكن التعامل مع الملف كوثيقة تعليمية/مشروع تقني. فقط تحققي من أي أكواد قبل تشغيلها في بيئة آمنة، ولا تضعي مفاتيح API أو بيانات حساسة داخل الملفات أو الدفاتر البرمجية."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "test.docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: test.docx\nالنتيجة: Phishing — 92%\n\nالسبب:\nالمحتوى يحتوي على مؤشرات تصيد قوية مثل طلب كلمة مرور أو رمز تحقق أو بيانات مالية مع وجود رابط.\n\nالنصيحة:\nلا تفتح الرابط ولا تدخل أي بيانات. استخدم الموقع أو التطبيق الرسمي فقط."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة من متجر معروف:\n\"تم شحن طلبك رقم 12345، يمكنك متابعة الطلب من داخل التطبيق الرسمي.\"\nما فيها رابط خارجي. هل هذه آمنة؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 90%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة تبدو آمنة لأنها لا تحتوي على رابط خارجي، ولا تطلب إدخال كلمة مرور أو رمز تحقق أو بيانات دفع، وتوجّهك لمتابعة الطلب من داخل التطبيق الرسمي فقط. هذا سلوك طبيعي لرسائل الشحن من المتاجر المعروفة.\n\nالنصيحة:\nافتح تطبيق المتجر الرسمي بنفسك من هاتفك وتحقق من حالة الطلب من داخله. لا تضغط على أي روابط إذا وصلت لاحقًا في رسائل أخرى، وتأكد أن رقم الطلب يطابق طلبًا فعليًا قمت به."
+      },
+      {
+        "role": "user",
+        "content": "صلتني رسالة:\n\"تم تسجيل دخول جديد إلى حسابك. إذا لم تكن أنت، تواصل مع الدعم.\"\nما فيها رابط، بس المرسل مش واضح. هل أعتبرها احتيال؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 75%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة مشبوهة وليست بالضرورة احتيالًا مؤكدًا لأنها لا تحتوي على رابط ولا تطلب كلمة مرور أو رمز تحقق. لكن وجود مرسل غير واضح وعبارة عامة مثل \"تواصل مع الدعم\" بدون تحديد الخدمة أو الحساب يجعلها غير موثوقة، وقد تكون محاولة لدفعك للتواصل مع جهة مزيفة لاحقًا.\n\nالنصيحة:\nلا ترد على الرسالة ولا تتصل بأي رقم أو حساب دعم مذكور فيها إن وُجد. افتح التطبيق أو الموقع الرسمي للحسابات المهمة بنفسك وتحقق من سجل تسجيلات الدخول أو التنبيهات الأمنية. إذا وجدت دخولًا غير معروف، غيّر كلمة المرور فورًا وفعّل المصادقة الثنائية. وإذا لم تجد أي تنبيه داخل التطبيق الرسمي، تجاهل الرسالة أو بلّغ عنها كرسالة مشبوهة."
+      },
+      {
+        "role": "user",
+        "content": "إيميل من شركة توصيل يقول:\n\"يوجد تأخير في شحنتك، الرجاء التواصل معنا على واتساب لتأكيد العنوان.\"\nما في رابط، والمرسل شكله غريب: delivery.support2026@gmail.com\nهل هذا احتيال؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 87%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة تحمل مؤشرات احتيال واضحة: شركة توصيل معروفة يفترض أن تستخدم بريدًا رسميًا باسم نطاق الشركة، وليس حساب Gmail عام مثل delivery.support2026@gmail.com. كذلك طلب التواصل عبر واتساب لتأكيد العنوان قد يكون محاولة لجمع بياناتك الشخصية أو دفعك لاحقًا لإرسال معلومات حساسة أو رسوم وهمية.\n\nالنصيحة:\nلا تتواصل معهم عبر واتساب ولا ترسل عنوانك أو أي بيانات شخصية. افتح تطبيق أو موقع شركة التوصيل الرسمي بنفسك، وأدخل رقم التتبع إن كان لديك. إذا لم تكن تنتظر شحنة أو لم تجد تنبيهًا داخل القنوات الرسمية، تجاهل الإيميل وبلّغ عنه كتصيد."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "test.docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: test.docx\nالنتيجة: Phishing — 92%\n\nالسبب:\nالمحتوى يحتوي على مؤشرات تصيد قوية مثل طلب كلمة مرور أو رمز تحقق أو بيانات مالية مع وجود رابط.\n\nالنصيحة:\nلا تفتح الرابط ولا تدخل أي بيانات. استخدم الموقع أو التطبيق الرسمي فقط."
+      }
+    ]
+  },
+  {
+    "id": "1e17770c-fc74-4a1d-9fa5-8fbb0063c545",
+    "title": "افحص",
+    "messages": [
+      {
+        "role": "user",
+        "content": "افحص",
+        "files": [
+          "test.docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: test.docx\nالنتيجة: Suspicious — 45%\n\nالسبب:\nلم أستطع استخراج نص واضح من الملف، لذلك لا يمكن الحكم عليه بدقة.\n\nالنصيحة:\nإذا كان الملف صورة أو PDF ممسوح Scan، ارفعه كصورة واضحة أو جرّب ملف يحتوي نص قابل للنسخ."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "The Support Training.pdf"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: The Support Training.pdf\nالنتيجة: Suspicious — 45%\n\nالسبب:\nلم أستطع استخراج نص واضح من الملف، لذلك لا يمكن الحكم عليه بدقة.\n\nالنصيحة:\nإذا كان الملف صورة أو PDF ممسوح Scan، ارفعه كصورة واضحة أو جرّب ملف يحتوي نص قابل للنسخ."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "The Support Training.pdf"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: The Support Training.pdf\nالنتيجة: Needs Review — 25%\n\nالسبب:\nلم أستطع استخراج نص قابل للتحليل من الملف The Support Training.pdf. هذا لا يعني أن الملف مشبوه، بل يعني أن النظام لم يتمكن من قراءة محتواه كنص. نوع الملف: application/pdf.\n\nالنصيحة:\nإذا كان الملف PDF ممسوح Scan أو صورة داخل PDF، ارفعه كصورة واضحة PNG/JPG حتى أقدر أفحصه بصريًا. وإذا كان ملف Word أو TXT تأكدي أنه يحتوي نص قابل للنسخ."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "test.docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: test.docx\nالنتيجة: Needs Review — 25%\n\nالسبب:\nلم أستطع استخراج نص قابل للتحليل من الملف test.docx. هذا لا يعني أن الملف مشبوه، بل يعني أن النظام لم يتمكن من قراءة محتواه كنص. نوع الملف: application/vnd.openxmlformats-officedocument.wordprocessingml.document.\n\nالنصيحة:\nإذا كان الملف PDF ممسوح Scan أو صورة داخل PDF، ارفعه كصورة واضحة PNG/JPG حتى أقدر أفحصه بصريًا. وإذا كان ملف Word أو TXT تأكدي أنه يحتوي نص قابل للنسخ."
+      },
+      {
+        "role": "user",
+        "content": "وصلني إشعار من تطبيق البنك الرسمي داخل التطبيق نفسه:\n\"لا تشارك كلمة المرور أو OTP مع أي شخص، حتى موظفي البنك.\"\nهل هذا آمن؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 90%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالإشعار يبدو توعويًا وآمنًا لأنه يحذّرك من مشاركة كلمة المرور أو رمز OTP ولا يطلب منك إدخال بيانات أو الضغط على رابط أو التواصل مع رقم خارجي. كونه داخل تطبيق البنك الرسمي يزيد من موثوقيته.\n\nالنصيحة:\nلا تشارك كلمة المرور أو رمز OTP مع أي شخص أبدًا، حتى لو ادعى أنه موظف بنك. إذا ظهر إشعار يطلب إدخال بيانات أو يحتوي رابطًا خارج التطبيق، تحقق من البنك عبر الرقم الرسمي أو من داخل التطبيق."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "test.docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: test.docx\nالنتيجة: Needs Review — 30%\n\nالسبب:\nلم أستطع استخراج نص قابل للقراءة من الملف test.docx. هذا لا يعني أن الملف مشبوه، بل يعني أن محتواه غير قابل للتحليل كنص من خلال الأداة الحالية.\n\nالنصيحة:\nإذا كان الملف PDF ممسوح Scan أو صورة داخل PDF، ارفعه كصورة PNG/JPG واضحة حتى يتم فحصه بصريًا. وإذا كان Word أو TXT تأكد أن النص قابل للنسخ."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "The Support Training.pdf"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: The Support Training.pdf\nالنتيجة: Needs Review — 30%\n\nالسبب:\nلم أستطع استخراج نص قابل للقراءة من الملف The Support Training.pdf. هذا لا يعني أن الملف مشبوه، بل يعني أن محتواه غير قابل للتحليل كنص من خلال الأداة الحالية.\n\nالنصيحة:\nإذا كان الملف PDF ممسوح Scan أو صورة داخل PDF، ارفعه كصورة PNG/JPG واضحة حتى يتم فحصه بصريًا. وإذا كان Word أو TXT تأكد أن النص قابل للنسخ."
+      },
+      {
+        "role": "user",
+        "content": "افحص",
+        "files": [
+          "The Support Training.pdf"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: The Support Training.pdf\nالنتيجة: Needs Review — 30%\n\nالسبب:\nلم أستطع استخراج نص قابل للقراءة من الملف The Support Training.pdf. هذا لا يعني أن الملف مشبوه، بل يعني أن محتواه غير قابل للتحليل كنص من خلال الأداة الحالية.\n\nالنصيحة:\nإذا كان الملف PDF ممسوح Scan أو صورة داخل PDF، ارفعه كصورة PNG/JPG واضحة حتى يتم فحصه بصريًا. وإذا كان Word أو TXT تأكد أن النص قابل للنسخ."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "Screen Shot 2026-02-21 at 10.22.58 PM.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: Screen Shot 2026-02-21 at 10.22.58 PM.png\nالنتيجة: Safe — 90%\n\nالسبب:\nالصورة تعرض مخططًا تعليميًا أو تقنيًا لعملية البحث واسترجاع المعلومات، مثل صياغة الاستعلام ومحرك البحث والمستندات المسترجعة. لا توجد روابط، ولا طلب لكلمة مرور أو رمز تحقق، ولا انتحال علامة تجارية، ولا تهديد أو استعجال.\n\nالنصيحة:\nلا توجد مؤشرات تصيد في هذه الصورة. يمكن التعامل معها كمحتوى تعليمي عادي."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "Cover Letter.pdf"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: Cover Letter.pdf\nالنتيجة: Needs Review — 30%\n\nالسبب:\nلم أستطع استخراج نص قابل للقراءة من الملف Cover Letter.pdf. هذا لا يعني أن الملف مشبوه، بل يعني أن محتواه غير قابل للتحليل كنص من خلال الأداة الحالية.\n\nالنصيحة:\nإذا كان الملف PDF ممسوح Scan أو صورة داخل PDF، ارفعه كصورة PNG/JPG واضحة حتى يتم فحصه بصريًا. وإذا كان Word أو TXT تأكد أن النص قابل للنسخ."
+      },
+      {
+        "role": "user",
+        "content": "إيميل من شركة توصيل يقول:\n\"يوجد تأخير في شحنتك، الرجاء التواصل معنا على واتساب لتأكيد العنوان.\"\nما في رابط، والمرسل شكله غريب: delivery.support2026@gmail.com\nهل هذا احتيال؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 75%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالرسالة مشبوهة لأن شركة توصيل رسمية غالبًا لا تستخدم بريد Gmail عام مثل delivery.support2026@gmail.com، وطلب التواصل عبر واتساب لتأكيد العنوان قد يكون محاولة لجمع بيانات شخصية أو فتح باب لطلب رسوم لاحقًا. لكن لا يوجد رابط، ولا طلب كلمة مرور أو رمز تحقق أو معلومات بطاقة، لذلك لا أستطيع تصنيفها كتصيد مؤكد.\n\nالنصيحة:\nلا تتواصل عبر الرقم الموجود في الرسالة. افتح تطبيق أو موقع شركة التوصيل الرسمي واستخدم رقم التتبع إن كان لديك. تواصل مع خدمة العملاء من القنوات المنشورة رسميًا فقط، ولا ترسل عنوانك الكامل أو رقم هويتك أو أي رمز تحقق أو بيانات دفع عبر واتساب."
+      }
+    ]
+  },
+  {
+    "id": "1c8b2b54-4d63-4b15-8396-5c620214fc4f",
+    "title": "السلام عليكم ",
+    "messages": [
+      {
+        "role": "user",
+        "content": "السلام عليكم ",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "وعليكم السلام ورحمة الله وبركاته\n\nوعليكم السلام، تفضل بطرح سؤالك وسأساعدك بإجابة عربية واضحة وتعليمية."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "LLMProject .docx"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 72%\n\nMode: FILE_IMAGE_ANALYSIS\n\nالسبب:\nتم رفع ملف Word باسم \"LLMProject .docx\" لكن لم يتم استخراج محتواه بنجاح، لذلك لا يمكن التحقق من النص أو الروابط أو أي تعليمات داخل الملف. وبحسب قواعد التحليل، عندما يكون محتوى الملف غير قابل للقراءة أو غير واضح يتم تصنيفه كمشبوه إلى أن يتم فحصه بشكل أفضل.\n\nالنصيحة:\nلا تفتح الملف أو تفعّل أي محتوى مثل الماكرو إلا إذا كنت متأكدًا من مصدره. اطلب من المرسل إعادة إرسال المحتوى كنص عادي أو PDF موثوق، وافحص الملف ببرنامج حماية محدث أو خدمة فحص ملفات موثوقة قبل فتحه. إذا كان الملف من جهة غير معروفة أو غير متوقعة فاعتبره غير آمن."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "LLMProject .docx",
+          "Ayat CV.pdf"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 72%\n\nMode: FILE_IMAGE_ANALYSIS\n\nالسبب:\nتم رفع ملفين: ملف Word باسم \"LLMProject .docx\" وملف PDF باسم \"Ayat CV.pdf\"، لكن فشل استخراج النص من كليهما. لذلك لا يمكن التحقق من وجود روابط مشبوهة أو طلبات تسجيل دخول أو تعليمات ضارة أو محتوى احتيالي داخل الملفات. وبحسب القاعدة، إذا كان محتوى الملف غير مقروء أو غير واضح فيجب اعتباره مشبوهاً إلى أن يتم فحصه بطريقة موثوقة.\n\nالنصيحة:\nلا تفتح الملفات مباشرة ولا تفعّل أي ماكرو أو محتوى نشط داخل ملف Word. افحص الملفات ببرنامج حماية محدث أو خدمة فحص ملفات موثوقة قبل فتحها. إذا كانت الملفات من مصدر غير معروف أو غير متوقع، اطلب من المرسل إرسال المحتوى كنص عادي أو عبر رابط رسمي موثوق، ويفضل فتحها في بيئة معزولة أو على جهاز غير حساس."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "Ayat CV.pdf"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 72%\n\nMode: FILE_IMAGE_ANALYSIS\n\nالسبب:\nتم رفع ملف PDF باسم \"Ayat CV.pdf\" لكن فشل استخراج النص من داخله، لذلك لا يمكن التحقق من محتواه أو معرفة ما إذا كان يحتوي على روابط مشبوهة أو طلبات تسجيل دخول أو تعليمات احتيالية. بما أن المحتوى غير مقروء/غير واضح، فيجب التعامل معه كملف مشبوه إلى أن يتم فحصه بشكل موثوق.\n\nالنصيحة:\nلا تفتح الملف على جهاز حساس إذا كان من مصدر غير موثوق أو غير متوقع. افحصه ببرنامج حماية محدث أو خدمة فحص ملفات موثوقة، ويفضل فتحه في بيئة معزولة. اطلب من المرسل إرسال السيرة الذاتية بصيغة نصية أو PDF قابل للقراءة إذا كنت بحاجة لمراجعة المحتوى."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "The Support Training.pdf"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: The Support Training.pdf\nالنتيجة: Safe — 55%\n\nالسبب:\nالملف هو PDF باسم يبدو متعلقًا بالتدريب أو العمل، ولم يتم استخراج نص قابل للقراءة منه، لذلك لا يمكن فحص المحتوى الداخلي بشكل كامل. مع ذلك، لا توجد في البيانات المتاحة أي أدلة فعلية على رابط مشبوه أو طلب كلمة مرور/رمز تحقق أو تهديد أو انتحال جهة.\n\nالنصيحة:\nإذا كان الملف من مصدر معروف ومتوقع فيمكن التعامل معه كملف عادي، لكن يُفضل فتحه بعارض PDF محدث وعدم تفعيل أي محتوى نشط أو الضغط على روابط داخلية قبل التأكد منها. إذا كان من مصدر غير معروف، افحصه ببرنامج حماية قبل فتحه."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "The Support Training.pdf",
+          "Screen Shot 2026-02-21 at 10.22.58 PM.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: The Support Training.pdf\nالنتيجة: Safe — 55%\n\nالسبب:\nالملف بصيغة PDF وباسم يبدو مرتبطًا بالتدريب أو العمل، ولم يتم استخراج نص قابل للقراءة منه لذلك لا يمكن فحص المحتوى الداخلي بشكل كامل. لا توجد في المعلومات المتاحة أي مؤشرات واضحة على تصيد مثل رابط مشبوه، طلب كلمة مرور أو رمز تحقق، تهديد، استعجال، أو طلب بيانات حساسة.\n\nالنصيحة:\nإذا كان الملف من مصدر معروف ومتوقع فيمكن التعامل معه كملف عادي، مع فتحه باستخدام قارئ PDF محدث. لا تضغط على أي روابط داخل الملف ولا تفعّل أي محتوى نشط إن وُجد إلا بعد التأكد من المصدر. إذا كان الملف من مرسل غير معروف، افحصه ببرنامج حماية قبل فتحه.\n\n---\n\nالملف: Screen Shot 2026-02-21 at 10.22.58 PM.png\nالنتيجة: Safe — 90%\n\nالسبب:\nالصورة تعرض مخططًا تعليميًا/أكاديميًا يشرح عملية البحث واسترجاع المعلومات، مثل صياغة الاستعلام ومحرك البحث والمستندات المسترجعة. لا توجد روابط، أو صفحات تسجيل دخول، أو طلب لكلمة مرور/رمز تحقق، أو تهديد، أو استعجال، أو انتحال علامة تجارية.\n\nالنصيحة:\nيمكن اعتبار الصورة آمنة. لا توجد مؤشرات تصيّد ظاهرة، ويمكن استخدامها كصورة تعليمية عادية."
+      },
+      {
+        "role": "user",
+        "content": "* في رسالة فيها خصم 50% بدون رابط \n",
+        "files": [
+          "The Support Training.pdf",
+          "Screen Shot 2026-02-21 at 10.22.58 PM.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: The Support Training.pdf\nالنتيجة: Safe — 55%\n\nالسبب:\nالملف المرفوع هو PDF باسم \"The Support Training.pdf\" ولم يتم استخراج نص قابل للقراءة منه، لذلك لا يمكن فحص المحتوى الداخلي بشكل كامل. بناءً على المعلومات المتاحة فقط، لا توجد مؤشرات واضحة على تصيد مثل رابط مشبوه، طلب كلمة مرور أو رمز تحقق، تهديد، استعجال، أو طلب بيانات حساسة.\n\nالنصيحة:\nإذا كان الملف من مصدر معروف ومتوقع فيمكن فتحه باستخدام قارئ PDF محدث. لا تضغط على أي روابط داخل الملف ولا تفعّل أي محتوى نشط إن وُجد إلا بعد التأكد من المصدر. إذا كان من مصدر غير معروف، افحصه ببرنامج حماية قبل فتحه.\n\n---\n\nالملف: Screen Shot 2026-02-21 at 10.22.58 PM.png\nالنتيجة: Safe — 90%\n\nالسبب:\nالصورة المعروضة عبارة عن مخطط تعليمي يشرح خطوات البحث واسترجاع المعلومات مثل صياغة الاستعلام ومحرك البحث والمستندات المسترجعة. لا تظهر فيها رسالة خصم، ولا روابط، ولا صفحة تسجيل دخول، ولا طلب كلمة مرور أو رمز تحقق أو بيانات مالية، ولا يوجد تهديد أو استعجال أو انتحال لعلامة تجارية.\n\nالنصيحة:\nيمكن اعتبار الصورة آمنة. إذا كانت لديك رسالة خصم 50% منفصلة عن هذه الصورة، فتحقق من المرسل وتجنب مشاركة أي بيانات حساسة، خاصة إذا طُلب منك لاحقًا الضغط على رابط أو إدخال معلومات دفع أو تسجيل دخول."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة SMS من رقم غريب تقول:\n\"عميلنا العزيز، تم تعليق حسابك البنكي بسبب نشاط مشبوه. لتجنب إغلاق الحساب خلال 24 ساعة، اضغط الرابط التالي وحدث بياناتك: http://bank-secure-login-verify.xyz\"\nهل هذه احتيال؟",
+        "files": [
+          "The Support Training.pdf",
+          "Screen Shot 2026-02-21 at 10.22.58 PM.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: The Support Training.pdf\nالنتيجة: Safe — 55%\n\nالسبب:\nالملف المقدم هو PDF باسم \"The Support Training.pdf\" ولم يتم استخراج نص قابل للقراءة منه، لذلك لا يمكن فحص محتواه الداخلي بشكل كامل. بناءً على المعلومات المتاحة عن الملف فقط، لا توجد مؤشرات واضحة على تصيد مثل رابط مشبوه أو طلب كلمة مرور أو رمز تحقق أو بيانات بنكية أو تهديد أو استعجال.\n\nالنصيحة:\nإذا كان الملف من مصدر معروف ومتوقع فيمكن فتحه باستخدام قارئ PDF محدث. إذا كان من مصدر غير معروف، افحصه ببرنامج حماية قبل فتحه، ولا تضغط على أي روابط داخلية أو تفعّل أي محتوى نشط إن وُجد إلا بعد التأكد من المصدر.\n\n---\n\nالملف: Screen Shot 2026-02-21 at 10.22.58 PM.png\nالنتيجة: Safe — 90%\n\nالسبب:\nالصورة المرفوعة تعرض مخططًا تعليميًا عن عملية البحث واسترجاع المعلومات، مثل Information Need وQuery Formulation وSearch Engine وDocuments. لا تظهر في الصورة رسالة SMS أو رابط بنكي أو صفحة تسجيل دخول أو طلب كلمة مرور/رمز تحقق أو بيانات مالية.\n\nالنصيحة:\nالصورة نفسها تبدو آمنة ولا تحتوي على مؤشرات تصيد. إذا كنت تريد فحص رسالة SMS منفصلة، أرسل لقطة شاشة واضحة لها أو نصها ليتم تحليلها بشكل مستقل."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة SMS من رقم غريب تقول:\n\"عميلنا العزيز، تم تعليق حسابك البنكي بسبب نشاط مشبوه. لتجنب إغلاق الحساب خلال 24 ساعة، اضغط الرابط التالي وحدث بياناتك: http://bank-secure-login-verify.xyz\"\nهل هذه احتيال؟",
+        "files": [
+          "The Support Training.pdf",
+          "Screen Shot 2026-02-21 at 10.22.58 PM.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: The Support Training.pdf\nالنتيجة: Safe — 55%\n\nالسبب:\nالملف المقدم هو PDF باسم \"The Support Training.pdf\" ولم يتم استخراج نص قابل للقراءة منه، لذلك لا يمكن فحص المحتوى الداخلي بالكامل. بناءً على بيانات الملف المتاحة فقط، لا توجد مؤشرات فعلية على تصيد مثل رابط مشبوه، طلب كلمة مرور أو رمز تحقق، تهديد، استعجال، أو طلب بيانات حساسة.\n\nالنصيحة:\nإذا كان الملف من مصدر معروف ومتوقع فيمكن فتحه باستخدام قارئ PDF محدث. إذا كان من مصدر غير معروف، افحصه ببرنامج حماية قبل فتحه، ولا تضغط على أي روابط داخلية أو تفعّل أي محتوى نشط إن وُجد إلا بعد التأكد من المصدر.\n\n---\n\nالملف: Screen Shot 2026-02-21 at 10.22.58 PM.png\nالنتيجة: Safe — 90%\n\nالسبب:\nالصورة المرفوعة تعرض مخططًا تعليميًا عن عملية البحث واسترجاع المعلومات، وفيه كلمات مثل Information Need وQuery Formulation وSearch Engine وDocuments. لا تظهر في الصورة أي روابط، أو صفحة تسجيل دخول، أو طلب كلمة مرور/رمز تحقق، أو تهديد، أو استعجال، أو انتحال لجهة بنكية أو تجارية.\n\nالنصيحة:\nالصورة نفسها تبدو آمنة ويمكن التعامل معها كمحتوى تعليمي عادي. لا توجد مؤشرات تصيد ظاهرة داخل الصورة."
+      },
+      {
+        "role": "user",
+        "content": "تم رفع ملف/صورة للتحقق منها.",
+        "files": [
+          "Screen Shot 2026-02-21 at 10.22.58 PM.png"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: Screen Shot 2026-02-21 at 10.22.58 PM.png\nالنتيجة: Safe — 90%\n\nالسبب:\nالصورة تعرض مخططًا تعليميًا/أكاديميًا لعملية البحث واسترجاع المعلومات، ويتضمن عناصر مثل Information Need وQuery Formulation وSearch Engine وDocuments. لا تظهر أي روابط، أو نطاقات غريبة، أو صفحة تسجيل دخول، أو طلب كلمة مرور/رمز تحقق، أو تهديد، أو استعجال، أو انتحال علامة تجارية.\n\nالنصيحة:\nيمكن التعامل مع الصورة كصورة تعليمية عادية. لا توجد مؤشرات تصيد ظاهرة فيها."
+      },
+      {
+        "role": "user",
+        "content": "افحصلي هذا الملف",
+        "files": [
+          "The Support Training.pdf"
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": "الملف: The Support Training.pdf\nالنتيجة: Safe — 55%\n\nالسبب:\nالملف بصيغة PDF واسمه \"The Support Training.pdf\" يوحي بأنه ملف تدريبي أو متعلق بالعمل. لم يتم استخراج نص قابل للقراءة من الملف، لذلك لا يمكن فحص المحتوى الداخلي بالكامل. بناءً على المعلومات المتاحة فقط، لا توجد مؤشرات واضحة على التصيد مثل رابط مشبوه، طلب كلمة مرور أو رمز تحقق، تهديد، استعجال، أو طلب بيانات حساسة.\n\nالنصيحة:\nإذا كان الملف من مصدر معروف ومتوقع، يمكن فتحه باستخدام قارئ PDF محدث. تجنب الضغط على أي روابط أو تفعيل أي محتوى نشط داخل الملف إن وُجد إلا بعد التأكد من المصدر. إذا كان المرسل غير معروف، افحص الملف ببرنامج حماية قبل فتحه."
+      },
+      {
+        "role": "user",
+        "content": "وصلتني رسالة SMS من رقم غريب تقول:\n\"عميلنا العزيز، تم تعليق حسابك البنكي بسبب نشاط مشبوه. لتجنب إغلاق الحساب خلال 24 ساعة، اضغط الرابط التالي وحدث بياناتك: http://bank-secure-login-verify.xyz\"\nهل هذه احتيال؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Phishing — 95%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nنعم، هذه رسالة احتيالية بدرجة عالية. الرسالة تنتحل جهة بنكية وتدّعي تعليق الحساب بسبب نشاط مشبوه، ثم تستخدم الاستعجال والتهديد بإغلاق الحساب خلال 24 ساعة لدفعك للضغط على رابط وتحديث بياناتك. الرابط يستخدم نطاقًا غريبًا وغير رسمي بصيغة ‎.xyz‎ ولا يبدو تابعًا لأي بنك حقيقي، وعبارة \"حدث بياناتك\" غالبًا تعني محاولة سرقة بيانات الدخول أو المعلومات البنكية.\n\nالنصيحة:\nلا تضغط على الرابط ولا تدخل أي بيانات. احذف الرسالة أو بلّغ عنها كرسالة احتيالية. إذا كنت قلقًا على حسابك، افتح تطبيق البنك الرسمي أو اتصل برقم خدمة العملاء الموجود على البطاقة أو الموقع الرسمي، وليس من خلال الرابط أو الرقم الموجود في الرسالة."
+      },
+      {
+        "role": "user",
+        "content": "شخص بعتلي:\n\"أنا صديق أخوك، محتاج تحويل بسيط بسرعة وبردلك إياه بكرة.\"\nما طلب رابط ولا كلمة مرور، بس في استعجال. كيف أصنفه؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Suspicious — 75%\n\nMode: LLM_ANALYSIS\n\nالسبب:\nالرسالة لا تحتوي على رابط أو طلب كلمة مرور، لذلك لا يمكن الجزم بأنها تصيد تقني مباشر. لكنها تحمل مؤشرات احتيال اجتماعي محتملة، خصوصًا لأنها تطلب تحويل أموال بسرعة وتدّعي علاقة غير مباشرة بك عبر أخيك دون إثبات واضح. الاستعجال وطلب المال من شخص غير موثوق أو غير معروف بشكل مباشر يجعلانها مشبوهة.\n\nالنصيحة:\nلا تحوّل أي مبلغ قبل التحقق. اتصل بأخيك مباشرة من رقمك المحفوظ واسأله إن كان يعرف الشخص وطلب منه التواصل معك. إذا أصرّ المرسل على السرعة أو رفض إثبات هويته، اعتبرها محاولة احتيال. استخدم وسائل دفع قابلة للتتبع فقط إذا تأكدت تمامًا من الهوية والحاجة."
+      },
+      {
+        "role": "user",
+        "content": "وصلني إشعار من تطبيق البنك الرسمي داخل التطبيق نفسه:\n\"لا تشارك كلمة المرور أو OTP مع أي شخص، حتى موظفي البنك.\"\nهل هذا آمن؟",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 90%\n\nMode: RAG_ANALYSIS\n\nالسبب:\nالإشعار يبدو آمنًا لأنه صادر داخل تطبيق البنك الرسمي ويقدّم نصيحة أمنية صحيحة: عدم مشاركة كلمة المرور أو رمز OTP مع أي شخص حتى لو ادّعى أنه موظف بنك. لا يوجد في الرسالة رابط، ولا طلب لإدخال بيانات، ولا تهديد بإغلاق الحساب، ولا محاولة للحصول على معلومات حساسة.\n\nالنصيحة:\nإذا كان الإشعار ظاهرًا فعلًا داخل تطبيق البنك الرسمي المثبّت من المتجر الرسمي، فيمكن اعتباره رسالة توعوية آمنة. لا تشارك كلمة المرور أو OTP مع أي شخص أبدًا، وإذا وصلك اتصال أو رسالة تطلب هذه المعلومات فتواصل مع البنك عبر الرقم الرسمي."
+      },
+      {
+        "role": "user",
+        "content": "افحصلي هذا الرابط https://teams.cloud.microsoft/?ocdiRedirect=index",
+        "files": []
+      },
+      {
+        "role": "assistant",
+        "content": "Safe — 85%\n\nMode: LLM_ANALYSIS\n\nالسبب:\nالرابط يبدو تابعًا لمايكروسوفت لأن النطاق الأساسي هو cloud.microsoft، والجزء الفرعي teams.cloud.microsoft يشير إلى Microsoft Teams. يستخدم HTTPS ولا يحتوي على نطاق غريب أو تهجئة مقلدة مثل micros0ft أو روابط مختصرة. معامل الرابط ocdiRedirect=index لا يبدو بحد ذاته مؤشرًا خطيرًا.\n\nالنصيحة:\nيمكن فتح الرابط إذا كنت تتوقع استخدام Microsoft Teams، لكن تأكد أن الصفحة تبقى ضمن نطاقات Microsoft الرسمية مثل microsoft.com أو cloud.microsoft أو live.com عند تسجيل الدخول. لا تدخل كلمة المرور أو رمز OTP إذا تم تحويلك إلى نطاق مختلف أو ظهرت صفحة غير معتادة."
+      }
+    ]
+  }
+]
