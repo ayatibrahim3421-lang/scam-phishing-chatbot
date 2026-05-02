@@ -1325,6 +1325,68 @@ def home():
     }
 
 
+# =========================
+# Dashboard Remote Data Endpoints
+# =========================
+
+def read_jsonl_file(path: Path, limit: int = 500):
+    rows = []
+
+    try:
+        if not path.exists():
+            return []
+
+        with open(path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+
+                try:
+                    rows.append(json.loads(line))
+                except Exception:
+                    pass
+
+        return rows[-limit:]
+
+    except Exception as e:
+        logger.error(f"event=read_jsonl_failed | path={path} | error={str(e)}")
+        return []
+
+
+@app.get("/chat-history")
+def get_chat_history(limit: int = 500):
+    return read_jsonl_file(CHAT_HISTORY_PATH, limit=limit)
+
+
+@app.get("/ab-testing-results")
+def get_ab_testing_results(limit: int = 500):
+    return read_jsonl_file(AB_TEST_LOG_PATH, limit=limit)
+
+
+@app.get("/static-file-risks")
+def get_static_file_risks(limit: int = 500):
+    return read_jsonl_file(STATIC_FILE_RISK_LOG_PATH, limit=limit)
+
+
+@app.get("/dashboard-data")
+def get_dashboard_data(limit: int = 500):
+    chat_history = read_jsonl_file(CHAT_HISTORY_PATH, limit=limit)
+    ab_results = read_jsonl_file(AB_TEST_LOG_PATH, limit=limit)
+    static_risks = read_jsonl_file(STATIC_FILE_RISK_LOG_PATH, limit=limit)
+
+    return {
+        "chat_history": chat_history,
+        "ab_testing_results": ab_results,
+        "static_file_risks": static_risks,
+        "counts": {
+            "chat_history": len(chat_history),
+            "ab_testing_results": len(ab_results),
+            "static_file_risks": len(static_risks)
+        }
+    }
+
+
 @app.post("/chat")
 @traceable(
     name="Scam Phishing RAG Chatbot",
