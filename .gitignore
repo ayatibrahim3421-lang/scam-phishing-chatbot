@@ -1,14 +1,1 @@
-.env
-*.env
-openAI.env
-LangSmith.env
-openAI..env
-backend/openAI.env
-backend/LangSmith.env
-logs/
-*.log
-*.jsonl
-conversations.json
-__pycache__/
-*.pyc
-.DS_Store
+
